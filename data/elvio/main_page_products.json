@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-04-03T21:07:55.428Z",
+  "generatedAt": "2026-04-03T21:34:51.263Z",
   "block": {
     "id": "cmnhrisd20000e8v13nbkt0kk",
     "name": "Товари для головної сторінки",
@@ -28,7 +28,7 @@
   "products": [
     {
       "article": "73888",
-      "link": null,
+      "link": "https://elvio.com.ua/elektrofetbaik-samebike-m20-iii-2000w-4-podviina-batareia-248v-18ah/",
       "parentArticle": "73888",
       "title": {
         "ru": "Электрофетбайк SAMEBIKE M20 III 2000W 4\" двойная батарея 2×18Ah 48V",
@@ -228,7 +228,7 @@
     },
     {
       "article": "73887",
-      "link": null,
+      "link": "https://elvio.com.ua/elektrofetbaik-samebike-m20-retro-street-1000w-204.0-potuzhna-batareia-48v-18ah/",
       "parentArticle": "73887",
       "title": {
         "ru": "Электрофетбайк SAMEBIKE M20 Retro Street 1000W 20x4.0\" мощная батарея 2х18Ah 48V",

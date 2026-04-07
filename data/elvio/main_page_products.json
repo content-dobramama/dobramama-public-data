@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-04-03T21:34:51.263Z",
+  "generatedAt": "2026-04-07T15:04:25.139Z",
   "block": {
     "id": "cmnhrisd20000e8v13nbkt0kk",
     "name": "Товари для головної сторінки",
@@ -195,6 +195,11 @@
         "cvet": {
           "id": 0,
           "value": null
+        },
+        "potuzhnstWvt": "2000",
+        "model": {
+          "ru": "SAMEBIKE M20 III",
+          "ua": "SAMEBIKE M20 III"
         }
       },
       "images": [
@@ -395,6 +400,11 @@
         "cvet": {
           "id": 0,
           "value": null
+        },
+        "potuzhnstWvt": "0",
+        "model": {
+          "ru": "",
+          "ua": ""
         }
       },
       "images": [

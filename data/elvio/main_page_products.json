@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-04-07T15:27:25.168Z",
+  "generatedAt": "2026-04-07T15:31:55.294Z",
   "block": {
     "id": "cmnhrisd20000e8v13nbkt0kk",
     "name": "Товари для головної сторінки",
@@ -196,12 +196,15 @@
           "id": 0,
           "value": null
         },
-        "potuzhnstWvt": "2000",
-        "model": {
+        "potuzhnstWvtTopTovar": "2000",
+        "modelTopTovar": {
           "ru": "SAMEBIKE M20 III",
           "ua": "SAMEBIKE M20 III"
         },
-        "potuzhnstWvtTopTovar": "2000"
+        "korotkiyOpisTopTovar": {
+          "ru": "Краткое описание ",
+          "ua": "Короткий опис"
+        }
       },
       "images": [
         "https://elvio.com.ua/content/images/15/elektrofetbaik-samebike-m20-iii-2000w-4-podviina-batareia-248v-18ah-23969385846523_+dc4af0c202.jpeg",
@@ -402,12 +405,15 @@
           "id": 0,
           "value": null
         },
-        "potuzhnstWvt": "0",
-        "model": {
+        "potuzhnstWvtTopTovar": "0",
+        "modelTopTovar": {
           "ru": "",
           "ua": ""
         },
-        "potuzhnstWvtTopTovar": "0"
+        "korotkiyOpisTopTovar": {
+          "ru": "",
+          "ua": ""
+        }
       },
       "images": [
         "https://elvio.com.ua/content/images/20/elektrofetbaik-samebike-m20-retro-street-1000w-204.0-potuzhna-batareia-48v-18ah-52946085400339_+b9526d55d5.jpeg",

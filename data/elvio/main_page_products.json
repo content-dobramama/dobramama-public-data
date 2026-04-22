@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-04-12T12:38:06.486Z",
+  "generatedAt": "2026-04-22T12:30:09.053Z",
   "block": {
     "id": "cmnhrisd20000e8v13nbkt0kk",
     "name": "Товари для головної сторінки",
@@ -30,7 +30,7 @@
   "products": [
     {
       "article": "73481",
-      "link": null,
+      "link": "https://elvio.com.ua/elektrovelosyped-keteles-kf9-skladnyi-fet-baik-750w-batareia-48v-26ah/",
       "parentArticle": "73481",
       "title": {
         "ru": "",
@@ -80,8 +80,8 @@
         "ua": ""
       },
       "description": {
-        "ru": "<div class=\"rc lr sw-768 mob-top items-center ta-left g-16\" style=\"--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Мощный двигатель 750 Вт\" loading=\"lazy\" src=\"/content/uploads/images/1(1).jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Мощный двигатель 750 Вт</h2>\r\n\r\n<p>KF9 750W оснащен высокопроизводительным двигателем с двойным приводом, который генерирует впечатляющие 50 Нм крутящего момента, обеспечивая мощную, плавную и эффективную езду.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center ta-left g-16\" style=\"--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Съемный аккумулятор\" loading=\"lazy\" src=\"/content/uploads/images/2(1).jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Съемный аккумулятор</h2>\r\n\r\n<p>Оснащен аккумулятором высокой емкости 26Ah, он обеспечивает надежное питание для длительных поездок, что делает его идеальным для продолжительных путешествий без частой подзарядки.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center ta-left g-16\" style=\"--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Цветной дисплей\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-february-26-2026--12_23pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Цветной дисплей</h2>\r\n\r\n<p>KF9 750W оснащен цветным ЖК-дисплеем высокого разрешения, который четко отображает важную информацию о поездке, такую как скорость, расстояние и уровень заряда батареи, что обеспечивает легкий мониторинг с первого взгляда.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center ta-left g-16\" style=\"--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Shimano 7 скоростей\" loading=\"lazy\" src=\"/content/uploads/images/3(1).jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Shimano 7 скоростей</h2>\r\n\r\n<p>Задний переключатель поддерживает 7 скоростей, что обеспечивает более точное переключение передач и регулировку.</p>\r\n</div>\r\n</div>\r\n",
-        "ua": "<style type=\"text/css\">.rc{--gap:0px;--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;--text-color:inherit;display:flex;width:100%;gap:var(--gap)}.rc__media,.rc__text{flex:1 1 50%;min-width:0;display:flex;flex-direction:column}.rc__media img{display:block;width:100%;height:auto;margin:0;}.rc__text{font-size:clamp(var(--fs-min),calc(var(--fs-min)+(var(--fs-max)-var(--fs-min))*((100vw-(var(--vw-min)*1px))/(var(--vw-max)-var(--vw-min)))),var(--fs-max));line-height:1.45;color:var(--text-color)}.rc__title{margin:0 0 .5em;font-size:clamp(calc(var(--fs-min)*1.35),calc((var(--fs-min)*1.35)+((var(--fs-max)*1.35-var(--fs-min)*1.35))*((100vw-(var(--vw-min)*1px))/(var(--vw-max)-var(--vw-min)))),calc(var(--fs-max)*1.35));line-height:1.2}.rc__text p{margin:.6em 0}.lr{flex-direction:row}.rl{flex-direction:row-reverse}.tb{flex-direction:column}.bt{flex-direction:column-reverse}.items-top{align-items:flex-start}.items-center{align-items:center}.items-bottom{align-items:flex-end}.v-top{justify-content:flex-start}.v-center{justify-content:center}.v-bottom{justify-content:flex-end}.ta-left{text-align:left}.ta-center{text-align:center}.ta-right{text-align:right}.g-0{--gap:0}.g-8{--gap:8px}.g-16{--gap:16px}.g-24{--gap:24px}.g-32{--gap:32px}.p-0{padding:0}.p-8{padding:8px}.p-16{padding:16px}.p-24{padding:24px}.m-0{margin:0}.mt-8{margin-top:8px}.mt-16{margin-top:16px}.mt-24{margin-top:24px}.mb-8{margin-bottom:8px}.mb-16{margin-bottom:16px}.mb-24{margin-bottom:24px}.w-40{flex-basis:40%}.w-50{flex-basis:50%}.w-60{flex-basis:60%}.w-70{flex-basis:70%}.bg-block{background:var(--bg-block,transparent)}.bg-text .rc__text{background:var(--bg-text,transparent)}.bg-media .rc__media{background:var(--bg-media,transparent)}.round-block{border-radius:var(--rb,0);overflow:hidden}.round-text .rc__text{border-radius:var(--rt,0);overflow:hidden}.round-media .rc__media{border-radius:var(--ri,0);overflow:hidden}.rb-0{--rb:0px}.rb-4{--rb:4px}.rb-8{--rb:8px}.rb-12{--rb:12px}.rb-16{--rb:16px}.rb-20{--rb:20px}.rb-24{--rb:24px}.rb-32{--rb:32px}.rt-0{--rt:0px}.rt-4{--rt:4px}.rt-8{--rt:8px}.rt-12{--rt:12px}.rt-16{--rt:16px}.rt-20{--rt:20px}.rt-24{--rt:24px}.rt-32{--rt:32px}.ri-0{--ri:0px}.ri-4{--ri:4px}.ri-8{--ri:8px}.ri-12{--ri:12px}.ri-16{--ri:16px}.ri-20{--ri:20px}.ri-24{--ri:24px}.ri-32{--ri:32px}@media (max-width:992px){.sw-992.mob-top{flex-direction:column-reverse}.sw-992.mob-bottom{flex-direction:column}}@media (max-width:768px){.sw-768.mob-top{flex-direction:column-reverse}.sw-768.mob-bottom{flex-direction:column}}@media (max-width:640px){.sw-640.mob-top{flex-direction:column-reverse}.sw-640.mob-bottom{flex-direction:column}}\r\n</style>\r\n<div class=\"rc lr sw-768 mob-top items-center ta-left g-16\" style=\"--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Потужний двигун 750 Вт\" loading=\"lazy\" src=\"/content/uploads/images/1(1).jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Потужний двигун 750 Вт</h2>\r\n\r\n<p>KF9 750W оснащений високопродуктивним двигуном з подвійним приводом, який генерує вражаючі 50 Нм крутного моменту, забезпечуючи потужну, плавну та ефективну їзду.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center ta-left g-16\" style=\"--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Знімний акумулятор\" loading=\"lazy\" src=\"/content/uploads/images/2(1).jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Знімний акумулятор</h2>\r\n\r\n<p>Оснащений акумулятором високої ємності 26Ah, він забезпечує надійне живлення для тривалих поїздок, що робить його ідеальним для тривалих подорожей без частої підзарядки.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center ta-left g-16\" style=\"--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Кольоровий дисплей\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-february-26-2026--12_23pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Кольоровий дисплей</h2>\r\n\r\n<p>KF9 750W оснащений кольоровим РК-дисплеєм високої чіткості, який чітко відображає важливу інформацію про поїздку, таку як швидкість, відстань та рівень заряду батареї, що забезпечує легкий моніторинг з першого погляду.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center ta-left g-16\" style=\"--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Shimano 7 швидкостей\" loading=\"lazy\" src=\"/content/uploads/images/3(1).jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Shimano 7 швидкостей</h2>\r\n\r\n<p>Задній перемикач (задня трансмісія) підтримує 7-швидкостей, що забезпечує точніше перемикання передач та регулювання.</p>\r\n</div>\r\n</div>\r\n"
+        "ru": "<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Комфорт и амортизация\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%209_30AM.jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Создан для вашего комфорта</h2>\r\n\r\n<p>Эргономичная конструкция рамы и система амортизации позволяют чувствовать себя уверенно на любом покрытии. Это универсальное транспортное средство обеспечивает мягкость хода, снимая нагрузку во время длительных поездок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Мощный двигатель 750 Вт\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/1(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Эффективность и драйв в городе</h2>\r\n\r\n<p>Электровелосипед KF9 оснащен двигателем на 750 Вт с крутящим моментом 50 Нм. Это обеспечивает уверенный старт и плавность хода, что идеально подходит как для динамичных поездок по городу, так и для прогулок по пересеченной местности.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Съемный аккумулятор\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/2(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Максимальная автономность для курьеров</h2>\r\n\r\n<p>Благодаря съемному аккумулятору высокой емкости, байк обеспечивает огромный запас хода. Это лучший выбор для работы курьером: вы сможете работать всю смену без дополнительных подзарядок, легко преодолевая большие расстояния.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Цветной дисплей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-february-26-2026--12_23pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Интеллектуальное управление</h2>\r\n\r\n<p>Яркий цветной ЖК-дисплей отображает все важные параметры в реальном времени. Удобный интерфейс и легкое управление делают этот электровелосипед доступным и комфортным как для мужчин, так и для женщин.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Shimano 7 скоростей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/3(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Надежная трансмиссия Shimano</h2>\r\n\r\n<p>7-скоростная система переключения Shimano позволяет легко адаптироваться к рельефу дороги. Выбирайте оптимальную передачу для скоростного шоссе или легкого подъема в гору, сохраняя полный контроль над поездкой.</p>\r\n</div>\r\n</div>\r\n",
+        "ua": "<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Комфорт та амортизація\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%209_30AM.jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Створений для вашого комфорту</h2>\r\n\r\n<p>Ергономічна конструкція рами та система амортизації дозволяють почуватися впевнено на будь-якому покритті. Це універсальний транспортний засіб забезпечує м&#39;якість ходу, знімаючи навантаження під час тривалих поїздок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Потужний двигун 750 Вт\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/1(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Ефективність та драйв у місті</h2>\r\n\r\n<p>Електровелосипед KF9 оснащений двигуном на 750 Вт з крутним моментом 50 Нм. Це забезпечує впевнений старт та плавність ходу, що ідеально підходить як для динамічних поїздок містом, так і для прогулянок пересіченою місцевістю.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Знімний акумулятор\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/2(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Максимальна автономність для кур&#39;єрів</h2>\r\n\r\n<p>Завдяки знімному акумулятору високої ємності, байк забезпечує величезний запас ходу. Це найкращий вибір для роботи кур&#39;єром: ви зможете працювати всю зміну без додаткових підзарядок, легко долаючи великі відстані.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Кольоровий дисплей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-february-26-2026--12_23pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Інтелектуальне управління</h2>\r\n\r\n<p>Яскравий кольоровий РК-дисплей відображає всі важливі параметри в режимі реального часу. Зручний інтерфейс та легке управління роблять цей електровелосипед доступним та комфортним як для чоловіків, так і для жінок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Shimano 7 швидкостей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/3(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Надійна трансмісія Shimano</h2>\r\n\r\n<p>7-швидкісна система перемикання Shimano дозволяє легко адаптуватися до рельєфу дороги. Вибирайте оптимальну передачу для швидкісного шосе або легкого підйому в гору, зберігаючи повний контроль над поїздкою.</p>\r\n</div>\r\n</div>\r\n"
       },
       "seoTitle": {
         "ru": "",
@@ -110,27 +110,6 @@
             "ru": "до 45 км/час"
           }
         },
-        "maksimalneRekomendovaneNavantazhennja": {
-          "id": 20,
-          "value": {
-            "ua": "до 150 кг",
-            "ru": "до 150 кг"
-          }
-        },
-        "tip": {
-          "id": 3,
-          "value": {
-            "ua": "Електровелосипед",
-            "ru": "Электровелосипед"
-          }
-        },
-        "vodoneproniknst": {
-          "id": 5,
-          "value": {
-            "ua": "IP54",
-            "ru": "IP54"
-          }
-        },
         "chasPovnoZarjadzhannja": {
           "id": 21,
           "value": {
@@ -138,25 +117,11 @@
             "ru": "до 9 часов"
           }
         },
-        "gabaritiDxshxv": {
-          "id": 22,
-          "value": {
-            "ua": "143х29х77",
-            "ru": "143х29х77"
-          }
-        },
         "vaga": {
           "id": 23,
           "value": {
             "ua": "34 кг",
             "ru": "34 кг"
-          }
-        },
-        "garantja": {
-          "id": 9,
-          "value": {
-            "ua": "6 місяців",
-            "ru": "6 месяцев"
           }
         },
         "zapasXoduKm": {
@@ -194,10 +159,6 @@
             "ru": "7"
           }
         },
-        "cvet": {
-          "id": 0,
-          "value": null
-        },
         "potuzhnstWvtTopTovar": "0",
         "modelTopTovar": {
           "ru": "",
@@ -217,6 +178,34 @@
             "ua": "750W",
             "ru": "750W"
           }
+        },
+        "zapasXoduNaElektrotjaz": {
+          "id": 0,
+          "value": null
+        },
+        "tipAmortizac": {
+          "id": 0,
+          "value": null
+        },
+        "gabaritiUpakuvannja": {
+          "id": 0,
+          "value": null
+        },
+        "potuzhnstZarjadnogoPristrou": {
+          "id": 0,
+          "value": null
+        },
+        "tipAkumuljatora": {
+          "id": 0,
+          "value": null
+        },
+        "kranaVirobnik": {
+          "id": 0,
+          "value": null
+        },
+        "komplektacja": {
+          "ru": "",
+          "ua": ""
         }
       },
       "images": [
@@ -254,7 +243,7 @@
       "price": 79999,
       "priceOld": 89999,
       "discount": 0,
-      "quantity": 5,
+      "quantity": 2,
       "popularity": 0,
       "displayInShowcase": true,
       "presence": {
@@ -291,8 +280,8 @@
         "ua": ""
       },
       "description": {
-        "ru": "<div class=\"rc lr sw-768 mob-top items-center ta-left g-16 mt-8\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Запас хода и мощность\" class=\"mt-8 mb-8\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-april-01-2026--11_07am.jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title\">Запас хода и мощность с аккумулятором 48V 30AH</h2>\r\n\r\n<p>Модель R19 оснащена литий-ионным аккумулятором 48V 30AH, который обеспечивает длительную автономность и стабильную работу. Повышенная энергоёмкость позволяет ездить дальше без подзарядки.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center ta-left g-16 mt-16\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Яркий дисплей\" class=\"mt-8 mb-8\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-april-01-2026--10_38am.jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title\">Яркий дисплей</h2>\r\n\r\n<p>Полный контроль над поездкой и быстрый доступ ко всей информации. Удобное управление позволяет легко переключать передачи и тормозить для максимально плавного движения.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center ta-left g-16 mt-16\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Мощность\" class=\"mt-8 mb-8\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-april-01-2026--11_21am.jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title\">Ощутите мощность</h2>\r\n\r\n<p>Интеллектуальный датчик крутящего момента и тихий двигатель обеспечивают стабильную тягу и уверенную езду в любых условиях.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center ta-left g-16 mt-16 mb-8\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Внедорожные шины\" class=\"mt-8 mb-8\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-april-01-2026--11_16am.jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title\">Мощные внедорожные шины</h2>\r\n\r\n<p>Прочные шины с агрессивным протектором обеспечивают отличное сцепление на грязи, песке и гравии. Максимальная устойчивость и контроль на бездорожье.</p>\r\n</div>\r\n</div>\r\n",
-        "ua": "<style type=\"text/css\">.rc{--gap:0px;--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;--text-color:inherit;display:flex;width:100%;gap:var(--gap)}.rc__media,.rc__text{flex:1 1 50%;min-width:0;display:flex;flex-direction:column}.rc__media img{display:block;width:100%;height:auto;margin:0;}.rc__text{font-size:clamp(var(--fs-min),calc(var(--fs-min)+(var(--fs-max)-var(--fs-min))*((100vw-(var(--vw-min)*1px))/(var(--vw-max)-var(--vw-min)))),var(--fs-max));line-height:1.45;color:var(--text-color)}.rc__title{margin:0 0 .5em;font-size:clamp(calc(var(--fs-min)*1.35),calc((var(--fs-min)*1.35)+((var(--fs-max)*1.35-var(--fs-min)*1.35))*((100vw-(var(--vw-min)*1px))/(var(--vw-max)-var(--vw-min)))),calc(var(--fs-max)*1.35));line-height:1.2}.rc__text p{margin:.6em 0}.lr{flex-direction:row}.rl{flex-direction:row-reverse}.tb{flex-direction:column}.bt{flex-direction:column-reverse}.items-top{align-items:flex-start}.items-center{align-items:center}.items-bottom{align-items:flex-end}.v-top{justify-content:flex-start}.v-center{justify-content:center}.v-bottom{justify-content:flex-end}.ta-left{text-align:left}.ta-center{text-align:center}.ta-right{text-align:right}.g-0{--gap:0}.g-8{--gap:8px}.g-16{--gap:16px}.g-24{--gap:24px}.g-32{--gap:32px}.p-0{padding:0}.p-8{padding:8px}.p-16{padding:16px}.p-24{padding:24px}.m-0{margin:0}.mt-8{margin-top:8px}.mt-16{margin-top:16px}.mt-24{margin-top:24px}.mb-8{margin-bottom:8px}.mb-16{margin-bottom:16px}.mb-24{margin-bottom:24px}.w-40{flex-basis:40%}.w-50{flex-basis:50%}.w-60{flex-basis:60%}.w-70{flex-basis:70%}.bg-block{background:var(--bg-block,transparent)}.bg-text .rc__text{background:var(--bg-text,transparent)}.bg-media .rc__media{background:var(--bg-media,transparent)}.round-block{border-radius:var(--rb,0);overflow:hidden}.round-text .rc__text{border-radius:var(--rt,0);overflow:hidden}.round-media .rc__media{border-radius:var(--ri,0);overflow:hidden}.rb-0{--rb:0px}.rb-4{--rb:4px}.rb-8{--rb:8px}.rb-12{--rb:12px}.rb-16{--rb:16px}.rb-20{--rb:20px}.rb-24{--rb:24px}.rb-32{--rb:32px}.rt-0{--rt:0px}.rt-4{--rt:4px}.rt-8{--rt:8px}.rt-12{--rt:12px}.rt-16{--rt:16px}.rt-20{--rt:20px}.rt-24{--rt:24px}.rt-32{--rt:32px}.ri-0{--ri:0px}.ri-4{--ri:4px}.ri-8{--ri:8px}.ri-12{--ri:12px}.ri-16{--ri:16px}.ri-20{--ri:20px}.ri-24{--ri:24px}.ri-32{--ri:32px}@media (max-width:992px){.sw-992.mob-top{flex-direction:column-reverse}.sw-992.mob-bottom{flex-direction:column}}@media (max-width:768px){.sw-768.mob-top{flex-direction:column-reverse}.sw-768.mob-bottom{flex-direction:column}}@media (max-width:640px){.sw-640.mob-top{flex-direction:column-reverse}.sw-640.mob-bottom{flex-direction:column}}.rc-specs{--specs-col-min:140px;--specs-col-max:190px;--specs-gap-x:36px;--specs-gap-y:28px;--specs-icon-size:54px;--specs-value-scale:1.15;--specs-label-scale:0.92}.rc-specs__wrap{display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;column-gap:var(--specs-gap-x);row-gap:var(--specs-gap-y);width:100%}.rc-specs__item{flex:0 1 160px;min-width:var(--specs-col-min);max-width:var(--specs-col-max);display:flex;flex-direction:column;align-items:center;text-align:center;box-sizing:border-box}.rc-specs__icon{width:var(--specs-icon-size);height:var(--specs-icon-size);margin:0 auto 14px;display:flex;align-items:center;justify-content:center;line-height:1;flex:0 0 auto}.rc-specs__icon img,.rc-specs__icon svg{display:block;max-width:100%;max-height:100%}.rc-specs__value{margin:0 0 6px;line-height:1.25;font-weight:700;font-size:clamp(calc(var(--fs-min) * var(--specs-value-scale)),calc((var(--fs-min) * var(--specs-value-scale)) + ((var(--fs-max) * var(--specs-value-scale) - var(--fs-min) * var(--specs-value-scale)) * ((100vw - (var(--vw-min) * 1px)) / (var(--vw-max) - var(--vw-min))))) calc(var(--fs-max) * var(--specs-value-scale)));color:var(--specs-value-color,var(--text-color,inherit))}.rc-specs__label{margin:0;line-height:1.35;font-weight:600;font-size:clamp(calc(var(--fs-min) * var(--specs-label-scale)),calc((var(--fs-min) * var(--specs-label-scale)) + ((var(--fs-max) * var(--specs-label-scale) - var(--fs-min) * var(--specs-label-scale)) * ((100vw - (var(--vw-min) * 1px)) / (var(--vw-max) - var(--vw-min))))) calc(var(--fs-max) * var(--specs-label-scale)));color:var(--specs-label-color,var(--text-color,inherit));opacity:.75}@media (max-width:991px){.rc-specs{--specs-gap-x:28px;--specs-gap-y:24px;--specs-icon-size:48px;--specs-col-min:130px}.rc-specs__item{flex-basis:150px}}@media (max-width:640px){.rc-specs{--specs-gap-x:20px;--specs-gap-y:20px;--specs-icon-size:42px}.rc-specs__item{flex:1 1 calc(50% - 20px);min-width:130px;max-width:100%}}@media (max-width:420px){.rc-specs{--specs-gap-x:16px;--specs-gap-y:18px;--specs-icon-size:38px}.rc-specs__item{flex:1 1 calc(50% - 16px);min-width:0;max-width:100%}}@media (max-width:350px){.rc-specs__item{flex:1 1 100%;min-width:100%}}\r\n</style>\r\n<div class=\"rc lr sw-768 mob-top items-center ta-left g-16 mt-8\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Запас ходу та потужність\" class=\"mt-8 mb-8\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-april-01-2026--11_07am.jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title\">Запас ходу та потужність із акумулятором 48V 30AH</h2>\r\n\r\n<p>Модель R19 оснащена літій-іонним акумулятором 48V 30AH, що забезпечує велику дальність поїздки та стабільну роботу. Висока щільність енергії дозволяє їхати довше без підзарядки &mdash; ідеально для щоденних маршрутів і далеких поїздок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center ta-left g-16 mt-16\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Яскравий дисплей\" class=\"mt-8 mb-8\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-april-01-2026--10_38am.jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title\">Яскравий дисплей</h2>\r\n\r\n<p>Повний контроль над поїздкою та швидкий доступ до всієї необхідної інформації. Інтуїтивне керування дозволяє легко перемикати передачі та гальмувати, забезпечуючи плавний і комфортний рух.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center ta-left g-16 mt-16\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Потужність\" class=\"mt-8 mb-8\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-april-01-2026--11_21am.jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title\">Відчуйте неперевершену потужність</h2>\r\n\r\n<p>Інтелектуальний датчик крутного моменту та тихий двигун забезпечують рівномірну тягу. Велосипед впевнено поводиться як у місті, так і на підйомах.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center ta-left g-16 mt-16 mb-8\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Позашляхові шини\" class=\"mt-8 mb-8\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-april-01-2026--11_16am.jpg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title\">Потужні позашляхові шини</h2>\r\n\r\n<p>Зносостійкі шини з агресивним протектором гарантують відмінне зчеплення на піску, гравії та бездоріжжі. Стабільність і контроль навіть у складних умовах.</p>\r\n</div>\r\n</div>\r\n"
+        "ru": "<div class=\"rc lr sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Аккумулятор 48V 30AH электровелосипед R19\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-april-01-2026--11_07am.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Надежный аккумулятор</h2>\r\n\r\n<p>Модель R19 оснащена литий-ионным аккумулятором высокой емкости 48V 30AH, обеспечивающим длительную автономность. Это идеальное решение для дальних поездок, где важна стабильная мощность и выносливость энергосистемы в любых погодных условиях.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Цветной LCD дисплей электрофетбайка\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-april-01-2026--10_38am.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Цветной LCD дисплей</h2>\r\n\r\n<p>Яркий дисплей отображает все ключевые параметры поездки в реальном времени. Продуманная эргономика позволяет райдеру легко управлять режимами мощности, обеспечивая плавное переключение и полный контроль над скоростью на сложных участках пути.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Мощный двигатель электрофетбайка для бездорожья\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%201_05PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Мощный двигатель</h2>\r\n\r\n<p>Этот мужской электрофетбайк оснащен мотором с высоким крутящим моментом, что гарантирует бескомпромиссную проходимость. Интеллектуальный датчик мгновенно адаптирует тягу под рельеф, позволяя уверенно преодолевать крутые подъемы и рыхлый грунт даже при пиковых нагрузках.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Широкие внедорожные шины Fat Tire\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%201_08PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Внедорожный электровелосипед</h2>\r\n\r\n<p>Широкие внедорожные шины с агрессивным протектором гарантируют максимальное сцепление с грязью, песком или снегом. Мощная конструкция фетбайка обеспечивает устойчивость и уверенный драйв там, где обычный велосипед просто не проедет.</p>\r\n</div>\r\n</div>\r\n",
+        "ua": "<div class=\"rc lr sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Акумулятор 48V 30AH електровелосипед R19\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-april-01-2026--11_07am.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Надійний акумулятор</h2>\r\n\r\n<p>Модель R19 оснащена літій-іонним акумулятором високої ємності 48V 30AH, що забезпечує тривалу автономність. Це ідеальне рішення для далеких поїздок, де важлива стабільна потужність та витривалість енергосистеми в будь-яких погодних умовах.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Кольоровий LCD дисплей електрофетбайка\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-april-01-2026--10_38am.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Кольоровий LCD дисплей</h2>\r\n\r\n<p>Яскравий дисплей відображає всі ключові параметри поїздки в реальному часі. Продумана ергономіка дозволяє райдеру легко керувати режимами потужності, забезпечуючи плавне перемикання та повний контроль над швидкістю на складних ділянках шляху.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Потужний двигун електрофетбайка для бездоріжжя\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%201_05PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Потужний двигун</h2>\r\n\r\n<p>Цей чоловічий електрофетбайк оснащений мотором з високим крутним моментом, що гарантує безкомпромісну прохідність. Інтелектуальний датчик миттєво адаптує тягу під рельєф, дозволяючи впевнено долати круті підйоми та пухкий ґрунт навіть при пікових навантаженнях.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Широкі позашляхові шини Fat Tire\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%201_08PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Позашляховий електровелосипед</h2>\r\n\r\n<p>Широкі позашляхові шини з агресивним протектором гарантують максимальне зчеплення з брудом, піском або снігом. Потужна конструкція фетбайка забезпечує стійкість та впевнений драйв там, де звичайний велосипед просто не проїде.</p>\r\n</div>\r\n</div>\r\n"
       },
       "seoTitle": {
         "ru": "Электровелосипед фетбайк OUXI GT2000 эндуро для бездорожья 2000W 48V 30AH",
@@ -321,27 +310,6 @@
             "ru": "до 60 км/час"
           }
         },
-        "maksimalneRekomendovaneNavantazhennja": {
-          "id": 20,
-          "value": {
-            "ua": "до 150 кг",
-            "ru": "до 150 кг"
-          }
-        },
-        "tip": {
-          "id": 3,
-          "value": {
-            "ua": "Електровелосипед",
-            "ru": "Электровелосипед"
-          }
-        },
-        "vodoneproniknst": {
-          "id": 5,
-          "value": {
-            "ua": "IP54",
-            "ru": "IP54"
-          }
-        },
         "chasPovnoZarjadzhannja": {
           "id": 16,
           "value": {
@@ -349,22 +317,11 @@
             "ru": "до 6 часов"
           }
         },
-        "gabaritiDxshxv": {
-          "id": 0,
-          "value": null
-        },
         "vaga": {
           "id": 55,
           "value": {
             "ua": "53",
             "ru": "53"
-          }
-        },
-        "garantja": {
-          "id": 9,
-          "value": {
-            "ua": "6 місяців",
-            "ru": "6 месяцев"
           }
         },
         "zapasXoduKm": {
@@ -402,10 +359,6 @@
             "ru": "7"
           }
         },
-        "cvet": {
-          "id": 0,
-          "value": null
-        },
         "potuzhnstWvtTopTovar": "0",
         "modelTopTovar": {
           "ru": "",
@@ -425,6 +378,34 @@
             "ua": "2000W",
             "ru": "2000W"
           }
+        },
+        "zapasXoduNaElektrotjaz": {
+          "id": 0,
+          "value": null
+        },
+        "tipAmortizac": {
+          "id": 0,
+          "value": null
+        },
+        "gabaritiUpakuvannja": {
+          "id": 0,
+          "value": null
+        },
+        "potuzhnstZarjadnogoPristrou": {
+          "id": 0,
+          "value": null
+        },
+        "tipAkumuljatora": {
+          "id": 0,
+          "value": null
+        },
+        "kranaVirobnik": {
+          "id": 0,
+          "value": null
+        },
+        "komplektacja": {
+          "ru": "",
+          "ua": ""
         }
       },
       "images": [
@@ -483,10 +464,10 @@
       "popularity": 0,
       "displayInShowcase": true,
       "presence": {
-        "id": 1,
+        "id": 2,
         "value": {
-          "ua": "В наявності",
-          "ru": "В наличии"
+          "ua": "Немає в наявності",
+          "ru": "Нет в наличии"
         }
       },
       "currency": {
@@ -498,8 +479,11 @@
         "value": "Електровелосипеди"
       },
       "brand": {
-        "id": 0,
-        "value": null
+        "id": 99,
+        "value": {
+          "ua": "Coswheel",
+          "ru": "Coswheel"
+        }
       },
       "color": {
         "id": 26,
@@ -513,8 +497,8 @@
         "ua": ""
       },
       "description": {
-        "ru": "<style type=\"text/css\">/* ========== БАЗОВІ СТИЛІ КОМПОНЕНТА ========== */\r\n  .rc{--gap:0px;--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;--text-color:inherit;display:flex;width:100%;gap:var(--gap)}.rc__media,.rc__text{flex:1 1 50%;min-width:0;display:flex;flex-direction:column}.rc__media img{display:block;width:100%;height:auto;margin:0;}.rc__text{font-size:clamp(var(--fs-min),calc(var(--fs-min)+(var(--fs-max)-var(--fs-min))*((100vw-(var(--vw-min)*1px))/(var(--vw-max)-var(--vw-min)))),var(--fs-max));line-height:1.45;color:var(--text-color)}.rc__title{margin:0 0 .5em;font-size:clamp(calc(var(--fs-min)*1.35),calc((var(--fs-min)*1.35)+((var(--fs-max)*1.35-var(--fs-min)*1.35))*((100vw-(var(--vw-min)*1px))/(var(--vw-max)-var(--vw-min)))),calc(var(--fs-max)*1.35));line-height:1.2}.rc__text p{margin:.6em 0}.lr{flex-direction:row}.rl{flex-direction:row-reverse}.tb{flex-direction:column}.bt{flex-direction:column-reverse}.items-top{align-items:flex-start}.items-center{align-items:center}.items-bottom{align-items:flex-end}.v-top{justify-content:flex-start}.v-center{justify-content:center}.v-bottom{justify-content:flex-end}.ta-left{text-align:left}.ta-center{text-align:center}.ta-right{text-align:right}.g-0{--gap:0}.g-8{--gap:8px}.g-16{--gap:16px}.g-24{--gap:24px}.g-32{--gap:32px}.p-0{padding:0}.p-8{padding:8px}.p-16{padding:16px}.p-24{padding:24px}.m-0{margin:0}.mt-8{margin-top:8px}.mt-16{margin-top:16px}.mt-24{margin-top:24px}.mb-8{margin-bottom:8px}.mb-16{margin-bottom:16px}.mb-24{margin-bottom:24px}.w-40{flex-basis:40%}.w-50{flex-basis:50%}.w-60{flex-basis:60%}.w-70{flex-basis:70%}.bg-block{background:var(--bg-block,transparent)}.bg-text .rc__text{background:var(--bg-text,transparent)}.bg-media .rc__media{background:var(--bg-media,transparent)}.round-block{border-radius:var(--rb,0);overflow:hidden}.round-text .rc__text{border-radius:var(--rt,0);overflow:hidden}.round-media .rc__media{border-radius:var(--ri,0);overflow:hidden}.rb-0{--rb:0px}.rb-4{--rb:4px}.rb-8{--rb:8px}.rb-12{--rb:12px}.rb-16{--rb:16px}.rb-20{--rb:20px}.rb-24{--rb:24px}.rb-32{--rb:32px}.rt-0{--rt:0px}.rt-4{--rt:4px}.rt-8{--rt:8px}.rt-12{--rt:12px}.rt-16{--rt:16px}.rt-20{--rt:20px}.rt-24{--rt:24px}.rt-32{--rt:32px}.ri-0{--ri:0px}.ri-4{--ri:4px}.ri-8{--ri:8px}.ri-12{--ri:12px}.ri-16{--ri:16px}.ri-20{--ri:20px}.ri-24{--ri:24px}.ri-32{--ri:32px}@media (max-width:992px){.sw-992.mob-top{flex-direction:column-reverse}.sw-992.mob-bottom{flex-direction:column}}@media (max-width:768px){.sw-768.mob-top{flex-direction:column-reverse}.sw-768.mob-bottom{flex-direction:column}}@media (max-width:640px){.sw-640.mob-top{flex-direction:column-reverse}.sw-640.mob-bottom{flex-direction:column}}.rc-specs{--specs-col-min:140px;--specs-col-max:190px;--specs-gap-x:36px;--specs-gap-y:28px;--specs-icon-size:54px;--specs-value-scale:1.15;--specs-label-scale:0.92}.rc-specs__wrap{display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;column-gap:var(--specs-gap-x);row-gap:var(--specs-gap-y);width:100%}.rc-specs__item{flex:0 1 160px;min-width:var(--specs-col-min);max-width:var(--specs-col-max);display:flex;flex-direction:column;align-items:center;text-align:center;box-sizing:border-box}.rc-specs__icon{width:var(--specs-icon-size);height:var(--specs-icon-size);margin:0 auto 14px;display:flex;align-items:center;justify-content:center;line-height:1;flex:0 0 auto}.rc-specs__icon img,.rc-specs__icon svg{display:block;max-width:100%;max-height:100%}.rc-specs__value{margin:0 0 6px;line-height:1.25;font-weight:700;font-size:clamp(calc(var(--fs-min) * var(--specs-value-scale)),calc((var(--fs-min) * var(--specs-value-scale)) + ((var(--fs-max) * var(--specs-value-scale) - var(--fs-min) * var(--specs-value-scale)) * ((100vw - (var(--vw-min) * 1px)) / (var(--vw-max) - var(--vw-min))))) calc(var(--fs-max) * var(--specs-value-scale)));color:var(--specs-value-color,var(--text-color,inherit))}.rc-specs__label{margin:0;line-height:1.35;font-weight:600;font-size:clamp(calc(var(--fs-min) * var(--specs-label-scale)),calc((var(--fs-min) * var(--specs-label-scale)) + ((var(--fs-max) * var(--specs-label-scale) - var(--fs-min) * var(--specs-label-scale)) * ((100vw - (var(--vw-min) * 1px)) / (var(--vw-max) - var(--vw-min))))) calc(var(--fs-max) * var(--specs-label-scale)));color:var(--specs-label-color,var(--text-color,inherit));opacity:.75}@media (max-width:991px){.rc-specs{--specs-gap-x:28px;--specs-gap-y:24px;--specs-icon-size:48px;--specs-col-min:130px}.rc-specs__item{flex-basis:150px}}@media (max-width:640px){.rc-specs{--specs-gap-x:20px;--specs-gap-y:20px;--specs-icon-size:42px}.rc-specs__item{flex:1 1 calc(50% - 20px);min-width:130px;max-width:100%}}@media (max-width:420px){.rc-specs{--specs-gap-x:16px;--specs-gap-y:18px;--specs-icon-size:38px}.rc-specs__item{flex:1 1 calc(50% - 16px);min-width:0;max-width:100%}}@media (max-width:350px){.rc-specs__item{flex:1 1 100%;min-width:100%}}\r\n\r\n  /* ========== ПОКРАЩЕННЯ ЧИТАННЯ ========== */\r\n  .rc__text {\r\n    hyphens: auto;\r\n    word-break: break-word;\r\n  }\r\n  .rc__title {\r\n    text-transform: none;\r\n    font-weight: 700;\r\n  }\r\n</style>\r\n<!-- Блок 1: ліворуч (lr) -->\r\n<div class=\"rc lr sw-768 mob-bottom items-center ta-center g-16 round-block mb-8\" style=\"--fs-min:14px;--fs-max:24px;--vw-min:420;--vw-max:1400;--rb:16px;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Электрический мотоцикл COSWHEEL R19 72V 6000W\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-march-01-2026--3_03pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Электрический мотоцикл COSWHEEL R19 72V 6000W</h2>\r\n\r\n<p>Легкое бездорожье, сочетание непревзойденной скорости и мощности.</p>\r\n</div>\r\n</div>\r\n<!-- Блок 2: праворуч (rl) -->\r\n\r\n<div class=\"rc rl sw-768 mob-bottom items-center ta-center g-16 round-block mb-8\" style=\"--fs-min:14px;--fs-max:24px;--vw-min:420;--vw-max:1400;--rb:16px;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Почуйте непревзойденную мощность\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-march-01-2026--3_04pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Почуйте непревзойденную мощность</h2>\r\n\r\n<p>Максимум 6000 Вт<br />\r\n80 км/ч максимальная скорость<br />\r\n120 Н&middot;м крутящий момент<br />\r\n40&deg; угол подъема</p>\r\n</div>\r\n</div>\r\n<!-- Блок 3: ліворуч (lr) -->\r\n\r\n<div class=\"rc lr sw-768 mob-bottom items-center ta-center g-16 round-block mb-8\" style=\"--fs-min:14px;--fs-max:24px;--vw-min:420;--vw-max:1400;--rb:16px;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Мощные внедорожные шины\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-march-01-2026--3_05pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Мощные внедорожные шины</h2>\r\n\r\n<p>Оснащенный высокопрочными внедорожными шинами (70/100-19M/C передняя и 80/100-19M/C задняя), этот электромотоцикл создан для суровых приключений. Улучшенный рисунок протектора обеспечивает отличное сцепление и контроль на грязи, гравии и неровной местности. Прочная конструкция устойчива к проколам и износу для длительного использования. Созданные для стабильности и производительности на бездорожье, эти шины позволяют вам сохранять контроль, куда бы ни завела тропа.</p>\r\n</div>\r\n</div>\r\n<!-- Блок 4: праворуч (rl) -->\r\n\r\n<div class=\"rc rl sw-768 mob-bottom items-center ta-center g-16 round-block mb-8\" style=\"--fs-min:14px;--fs-max:24px;--vw-min:420;--vw-max:1400;--rb:16px;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Запас хода и мощность с аккумулятором 72В 40А·ч\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-march-01-2026--3_05pm.jpg-1.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Запас хода и мощность с аккумулятором 72В 40А&middot;ч</h2>\r\n\r\n<p>Модель R19 оснащена литий-ионным аккумулятором 72В 40А&middot;ч (элементы 21700), обеспечивающим исключительную дальность хода и надежность. По сравнению со стандартными батареями, он имеет более высокую плотность энергии и длительную эффективность. Езжайте дальше, беспокойтесь меньше &mdash; идеально для длительных приключений или ежедневных поездок.</p>\r\n</div>\r\n</div>\r\n<!-- Блок 5: ліворуч (lr) -->\r\n\r\n<div class=\"rc lr sw-768 mob-bottom items-center ta-center g-16 round-block mb-8\" style=\"--fs-min:14px;--fs-max:24px;--vw-min:420;--vw-max:1400;--rb:16px;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Многофункциональный ЖК-дисплей\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-march-01-2026--3_06pm.jpg-1.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Многофункциональный ЖК-дисплей</h2>\r\n\r\n<p>Большой 3,5-дюймовый ЖК-дисплей, на котором легко читать данные поездки: скорость, пробег, время в пути, остаток заряда и другое &mdash; все отображается для вашего быстрого ознакомления.</p>\r\n</div>\r\n</div>\r\n",
-        "ua": "<style type=\"text/css\">/* ========== БАЗОВІ СТИЛІ КОМПОНЕНТА ========== */\r\n  .rc{--gap:0px;--fs-min:14px;--fs-max:22px;--vw-min:420;--vw-max:1280;--text-color:inherit;display:flex;width:100%;gap:var(--gap)}.rc__media,.rc__text{flex:1 1 50%;min-width:0;display:flex;flex-direction:column}.rc__media img{display:block;width:100%;height:auto;margin:0;}.rc__text{font-size:clamp(var(--fs-min),calc(var(--fs-min)+(var(--fs-max)-var(--fs-min))*((100vw-(var(--vw-min)*1px))/(var(--vw-max)-var(--vw-min)))),var(--fs-max));line-height:1.45;color:var(--text-color)}.rc__title{margin:0 0 .5em;font-size:clamp(calc(var(--fs-min)*1.35),calc((var(--fs-min)*1.35)+((var(--fs-max)*1.35-var(--fs-min)*1.35))*((100vw-(var(--vw-min)*1px))/(var(--vw-max)-var(--vw-min)))),calc(var(--fs-max)*1.35));line-height:1.2}.rc__text p{margin:.6em 0}.lr{flex-direction:row}.rl{flex-direction:row-reverse}.tb{flex-direction:column}.bt{flex-direction:column-reverse}.items-top{align-items:flex-start}.items-center{align-items:center}.items-bottom{align-items:flex-end}.v-top{justify-content:flex-start}.v-center{justify-content:center}.v-bottom{justify-content:flex-end}.ta-left{text-align:left}.ta-center{text-align:center}.ta-right{text-align:right}.g-0{--gap:0}.g-8{--gap:8px}.g-16{--gap:16px}.g-24{--gap:24px}.g-32{--gap:32px}.p-0{padding:0}.p-8{padding:8px}.p-16{padding:16px}.p-24{padding:24px}.m-0{margin:0}.mt-8{margin-top:8px}.mt-16{margin-top:16px}.mt-24{margin-top:24px}.mb-8{margin-bottom:8px}.mb-16{margin-bottom:16px}.mb-24{margin-bottom:24px}.w-40{flex-basis:40%}.w-50{flex-basis:50%}.w-60{flex-basis:60%}.w-70{flex-basis:70%}.bg-block{background:var(--bg-block,transparent)}.bg-text .rc__text{background:var(--bg-text,transparent)}.bg-media .rc__media{background:var(--bg-media,transparent)}.round-block{border-radius:var(--rb,0);overflow:hidden}.round-text .rc__text{border-radius:var(--rt,0);overflow:hidden}.round-media .rc__media{border-radius:var(--ri,0);overflow:hidden}.rb-0{--rb:0px}.rb-4{--rb:4px}.rb-8{--rb:8px}.rb-12{--rb:12px}.rb-16{--rb:16px}.rb-20{--rb:20px}.rb-24{--rb:24px}.rb-32{--rb:32px}.rt-0{--rt:0px}.rt-4{--rt:4px}.rt-8{--rt:8px}.rt-12{--rt:12px}.rt-16{--rt:16px}.rt-20{--rt:20px}.rt-24{--rt:24px}.rt-32{--rt:32px}.ri-0{--ri:0px}.ri-4{--ri:4px}.ri-8{--ri:8px}.ri-12{--ri:12px}.ri-16{--ri:16px}.ri-20{--ri:20px}.ri-24{--ri:24px}.ri-32{--ri:32px}@media (max-width:992px){.sw-992.mob-top{flex-direction:column-reverse}.sw-992.mob-bottom{flex-direction:column}}@media (max-width:768px){.sw-768.mob-top{flex-direction:column-reverse}.sw-768.mob-bottom{flex-direction:column}}@media (max-width:640px){.sw-640.mob-top{flex-direction:column-reverse}.sw-640.mob-bottom{flex-direction:column}}.rc-specs{--specs-col-min:140px;--specs-col-max:190px;--specs-gap-x:36px;--specs-gap-y:28px;--specs-icon-size:54px;--specs-value-scale:1.15;--specs-label-scale:0.92}.rc-specs__wrap{display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;column-gap:var(--specs-gap-x);row-gap:var(--specs-gap-y);width:100%}.rc-specs__item{flex:0 1 160px;min-width:var(--specs-col-min);max-width:var(--specs-col-max);display:flex;flex-direction:column;align-items:center;text-align:center;box-sizing:border-box}.rc-specs__icon{width:var(--specs-icon-size);height:var(--specs-icon-size);margin:0 auto 14px;display:flex;align-items:center;justify-content:center;line-height:1;flex:0 0 auto}.rc-specs__icon img,.rc-specs__icon svg{display:block;max-width:100%;max-height:100%}.rc-specs__value{margin:0 0 6px;line-height:1.25;font-weight:700;font-size:clamp(calc(var(--fs-min) * var(--specs-value-scale)),calc((var(--fs-min) * var(--specs-value-scale)) + ((var(--fs-max) * var(--specs-value-scale) - var(--fs-min) * var(--specs-value-scale)) * ((100vw - (var(--vw-min) * 1px)) / (var(--vw-max) - var(--vw-min))))) calc(var(--fs-max) * var(--specs-value-scale)));color:var(--specs-value-color,var(--text-color,inherit))}.rc-specs__label{margin:0;line-height:1.35;font-weight:600;font-size:clamp(calc(var(--fs-min) * var(--specs-label-scale)),calc((var(--fs-min) * var(--specs-label-scale)) + ((var(--fs-max) * var(--specs-label-scale) - var(--fs-min) * var(--specs-label-scale)) * ((100vw - (var(--vw-min) * 1px)) / (var(--vw-max) - var(--vw-min))))) calc(var(--fs-max) * var(--specs-label-scale)));color:var(--specs-label-color,var(--text-color,inherit));opacity:.75}@media (max-width:991px){.rc-specs{--specs-gap-x:28px;--specs-gap-y:24px;--specs-icon-size:48px;--specs-col-min:130px}.rc-specs__item{flex-basis:150px}}@media (max-width:640px){.rc-specs{--specs-gap-x:20px;--specs-gap-y:20px;--specs-icon-size:42px}.rc-specs__item{flex:1 1 calc(50% - 20px);min-width:130px;max-width:100%}}@media (max-width:420px){.rc-specs{--specs-gap-x:16px;--specs-gap-y:18px;--specs-icon-size:38px}.rc-specs__item{flex:1 1 calc(50% - 16px);min-width:0;max-width:100%}}@media (max-width:350px){.rc-specs__item{flex:1 1 100%;min-width:100%}}\r\n\r\n  /* ========== ПОКРАЩЕННЯ ЧИТАННЯ ========== */\r\n  .rc__text {\r\n    hyphens: auto;\r\n    word-break: break-word;\r\n  }\r\n  .rc__title {\r\n    text-transform: none;\r\n    font-weight: 700;\r\n  }\r\n</style>\r\n<!-- Блок 1: ліворуч (lr) -->\r\n<div class=\"rc lr sw-768 mob-bottom items-center ta-center g-16 round-block mb-8\" style=\"--fs-min:14px;--fs-max:24px;--vw-min:420;--vw-max:1400;--rb:16px;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Електричний мотоцикл COSWHEEL R19 72V 6000W\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-march-01-2026--3_03pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Електричний мотоцикл COSWHEEL R19 72V 6000W</h2>\r\n\r\n<p>Легке бездоріжжя, поєднання неперевершеної швидкості та потужності.</p>\r\n</div>\r\n</div>\r\n<!-- Блок 2: праворуч (rl) -->\r\n\r\n<div class=\"rc rl sw-768 mob-bottom items-center ta-center g-16 round-block mb-8\" style=\"--fs-min:14px;--fs-max:24px;--vw-min:420;--vw-max:1400;--rb:16px;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Відчуйте неперевершену потужність\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-march-01-2026--3_04pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Відчуйте неперевершену потужність</h2>\r\n\r\n<p>Максимум 6000 Вт<br />\r\n80 км/год максимальна швидкість<br />\r\n120 Н&middot;м крутний момент<br />\r\n40&deg; кут підйому</p>\r\n</div>\r\n</div>\r\n<!-- Блок 3: ліворуч (lr) -->\r\n\r\n<div class=\"rc lr sw-768 mob-bottom items-center ta-center g-16 round-block mb-8\" style=\"--fs-min:14px;--fs-max:24px;--vw-min:420;--vw-max:1400;--rb:16px;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Потужні позашляхові шини\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-march-01-2026--3_05pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Потужні позашляхові шини</h2>\r\n\r\n<p>Оснащений високоміцними позашляховими шинами (70/100-19M/C передня та 80/100-19M/C задня), цей електромотоцикл створений для суворих пригод. Покращений малюнок протектора забезпечує чудове зчеплення та контроль на бруді, гравії та нерівній місцевості. Міцна конструкція стійка до проколів і зносу для тривалого використання. Створені для стабільності та продуктивності на бездоріжжі, ці шини дозволяють вам зберігати контроль, куди б не завела стежка.</p>\r\n</div>\r\n</div>\r\n<!-- Блок 4: праворуч (rl) -->\r\n\r\n<div class=\"rc rl sw-768 mob-bottom items-center ta-center g-16 round-block mb-8\" style=\"--fs-min:14px;--fs-max:24px;--vw-min:420;--vw-max:1400;--rb:16px;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Запас ходу та потужність із акумулятором 72В 40А·г\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-march-01-2026--3_05pm.jpg-1.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Запас ходу та потужність із акумулятором 72В 40А&middot;г</h2>\r\n\r\n<p>Модель R19 оснащена літій-іонним акумулятором 72В 40А&middot;г (елементи 21700), що забезпечує виняткову дальність ходу та надійність. Порівняно зі стандартними батареями, він має вищу щільність енергії та тривалішу ефективність. Їдьте далі, турбуйтеся менше &mdash; ідеально для тривалих пригод або щоденних поїздок.</p>\r\n</div>\r\n</div>\r\n<!-- Блок 5: ліворуч (lr) -->\r\n\r\n<div class=\"rc lr sw-768 mob-bottom items-center ta-center g-16 round-block mb-8\" style=\"--fs-min:14px;--fs-max:24px;--vw-min:420;--vw-max:1400;--rb:16px;\">\r\n<div class=\"rc__media w-50 v-center\"><img alt=\"Багатофункціональний РК-дисплей\" loading=\"lazy\" src=\"/content/uploads/images/generated-image-march-01-2026--3_06pm.jpg-1.jpeg\" /></div>\r\n\r\n<div class=\"rc__text w-50 v-center\">\r\n<h2 class=\"rc__title m-0\">Багатофункціональний РК-дисплей</h2>\r\n\r\n<p>Великий 3,5-дюймовий РК-дисплей, на якому легко читати дані поїздки: швидкість, пробіг, час у дорозі, залишок заряду та інше &mdash; усе відображається для вашого швидкого ознайомлення.</p>\r\n</div>\r\n</div>\r\n"
+        "ru": "<div class=\"rc lr sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Электрический мотоцикл COSWHEEL R19 72V 6000W\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_03pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Электрический мотоцикл COSWHEEL R19 72V 6000W</h2>\r\n\r\n<p>Лёгкое бездорожье, сочетание непревзойдённой скорости и мощности.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Почувствуйте непревзойдённую мощность\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_04pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Почувствуйте непревзойдённую мощность</h2>\r\n\r\n<p>Максимум 6000 Вт<br />\r\n80 км/ч максимальная скорость<br />\r\n120 Н&middot;м крутящий момент<br />\r\n40&deg; угол подъёма</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Мощные внедорожные шины\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_05pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Мощные внедорожные шины</h2>\r\n\r\n<p>Оснащён высокопрочными внедорожными шинами (70/100-19M/C передняя и 80/100-19M/C задняя), этот электромотоцикл создан для суровых приключений. Улучшенный рисунок протектора обеспечивает отличное сцепление и контроль на грязи, гравии и неровной местности. Прочная конструкция устойчива к проколам и износу для длительного использования. Созданные для стабильности и производительности на бездорожье, эти шины позволяют сохранять контроль, куда бы ни вела тропа.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Запас хода и мощность\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_05pm.jpg-1.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Запас хода и мощность с аккумулятором 72В 40А&middot;ч</h2>\r\n\r\n<p>Модель R19 оснащена литий-ионным аккумулятором 72В 40А&middot;ч (элементы 21700), обеспечивающим исключительный запас хода и надёжность. По сравнению со стандартными батареями, он обладает более высокой плотностью энергии и длительной эффективностью. Езжайте дальше, беспокойтесь меньше &mdash; идеально для длительных приключений или ежедневных поездок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Многофункциональный ЖК-дисплей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_06pm.jpg-1.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Многофункциональный ЖК-дисплей</h2>\r\n\r\n<p>Большой 3,5-дюймовый ЖК-дисплей с удобным отображением данных поездки: скорость, пробег, время в пути, остаток заряда и многое другое &mdash; всё под рукой для быстрого ознакомления.</p>\r\n</div>\r\n</div>\r\n",
+        "ua": "<div class=\"rc lr sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Електричний мотоцикл COSWHEEL R19 72V 6000W\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_03pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Електричний мотоцикл COSWHEEL R19 72V 6000W</h2>\r\n\r\n<p>Легке бездоріжжя, поєднання неперевершеної швидкості та потужності.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Відчуйте неперевершену потужність\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_04pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Відчуйте неперевершену потужність</h2>\r\n\r\n<p>Максимум 6000 Вт<br />\r\n80 км/год максимальна швидкість<br />\r\n120 Н&middot;м крутний момент<br />\r\n40&deg; кут підйому</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Потужні позашляхові шини\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_05pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Потужні позашляхові шини</h2>\r\n\r\n<p>Оснащений високоміцними позашляховими шинами (70/100-19M/C передня та 80/100-19M/C задня), цей електромотоцикл створений для суворих пригод. Покращений малюнок протектора забезпечує відмінне зчеплення та контроль на бруді, гравії та нерівній місцевості. Міцна конструкція стійка до проколів та зносу для тривалого використання. Створені для стабільності та продуктивності на бездоріжжі, ці шини дозволяють зберігати контроль, куди б не вела стежка.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Запас ходу та потужність\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_05pm.jpg-1.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Запас ходу та потужність з акумулятором 72В 40А&middot;год</h2>\r\n\r\n<p>Модель R19 оснащена літій-іонним акумулятором 72В 40А&middot;год (елементи 21700), що забезпечує винятковий запас ходу та надійність. Порівняно зі стандартними батареями, він має вищу щільність енергії та тривалу ефективність. Їдьте далі, турбуйтеся менше &mdash; ідеально для тривалих пригод або щоденних поїздок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Багатофункціональний РК-дисплей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_06pm.jpg-1.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Багатофункціональний РК-дисплей</h2>\r\n\r\n<p>Великий 3,5-дюймовий РК-дисплей зі зручним відображенням даних поїздки: швидкість, пробіг, час у дорозі, залишок заряду та багато іншого &mdash; все під рукою для швидкого ознайомлення.</p>\r\n</div>\r\n</div>\r\n"
       },
       "seoTitle": {
         "ru": "Электровелосипед фетбайк Coswheel R19 ендуро для бездорожья 6000W 40Ah 72V",
@@ -543,27 +527,6 @@
             "ru": "до 80 км/час"
           }
         },
-        "maksimalneRekomendovaneNavantazhennja": {
-          "id": 36,
-          "value": {
-            "ua": "до 200 кг",
-            "ru": "до 200 кг"
-          }
-        },
-        "tip": {
-          "id": 3,
-          "value": {
-            "ua": "Електровелосипед",
-            "ru": "Электровелосипед"
-          }
-        },
-        "vodoneproniknst": {
-          "id": 5,
-          "value": {
-            "ua": "IP54",
-            "ru": "IP54"
-          }
-        },
         "chasPovnoZarjadzhannja": {
           "id": 6,
           "value": {
@@ -571,22 +534,11 @@
             "ru": "до 8 часов"
           }
         },
-        "gabaritiDxshxv": {
-          "id": 0,
-          "value": null
-        },
         "vaga": {
           "id": 37,
           "value": {
             "ua": "63 кг",
             "ru": "63 кг"
-          }
-        },
-        "garantja": {
-          "id": 9,
-          "value": {
-            "ua": "6 місяців",
-            "ru": "6 месяцев"
           }
         },
         "zapasXoduKm": {
@@ -624,10 +576,6 @@
             "ru": "7"
           }
         },
-        "cvet": {
-          "id": 0,
-          "value": null
-        },
         "potuzhnstWvtTopTovar": "0",
         "modelTopTovar": {
           "ru": "",
@@ -647,6 +595,34 @@
             "ua": "6000W",
             "ru": "6000W"
           }
+        },
+        "zapasXoduNaElektrotjaz": {
+          "id": 0,
+          "value": null
+        },
+        "tipAmortizac": {
+          "id": 0,
+          "value": null
+        },
+        "gabaritiUpakuvannja": {
+          "id": 0,
+          "value": null
+        },
+        "potuzhnstZarjadnogoPristrou": {
+          "id": 0,
+          "value": null
+        },
+        "tipAkumuljatora": {
+          "id": 0,
+          "value": null
+        },
+        "kranaVirobnik": {
+          "id": 0,
+          "value": null
+        },
+        "komplektacja": {
+          "ru": "",
+          "ua": ""
         }
       },
       "images": [
@@ -682,7 +658,7 @@
     },
     {
       "article": "74067",
-      "link": null,
+      "link": "https://elvio.com.ua/elektrovelosyped-new-speed-fet-baik-1000w-264.0-potuzhna-batareia-13ah-48v/",
       "parentArticle": "74068",
       "title": {
         "ru": "",
@@ -699,10 +675,10 @@
       "popularity": 0,
       "displayInShowcase": true,
       "presence": {
-        "id": 1,
+        "id": 2,
         "value": {
-          "ua": "В наявності",
-          "ru": "В наличии"
+          "ua": "Немає в наявності",
+          "ru": "Нет в наличии"
         }
       },
       "currency": {
@@ -732,8 +708,8 @@
         "ua": ""
       },
       "description": {
-        "ru": "",
-        "ua": ""
+        "ru": "<div class=\"rc lr sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Электробайк New Speed мощность 1000W\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%204_46PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Эффективный транспорт для города</h2>\r\n\r\n<p>Мотор на 1000W обеспечивает уверенную тягу на подъемах. Это надежный городской и загородный транспорт для ежедневных поездок, который одинаково эффективен на асфальте и грунтовых дорогах.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Аккумулятор\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%204_51PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Максимальный ресурс</h2>\r\n\r\n<p>Выносливая батарея идеально подходит для курьера и активной работы. Большой запас хода позволяет уверенно передвигаться по городу весь день без дополнительной подзарядки.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Широкие колеса fat tire\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%204_44PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Транспорт для сложных условий</h2>\r\n\r\n<p>Широкие колеса гарантируют стабильность на песке, снегу и бездорожье. Это универсальный выбор для села и плохих дорог, где Fat Tire обеспечивает максимальное сцепление и мягкость хода.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Электровелосипед New Speed для взрослых\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%205_06PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Ваш стандарт для ежедневных поездок</h2>\r\n\r\n<p>Усиленная рама и эргономика делают этот электровелосипед удобным для взрослых райдеров. Универсальный дизайн подходит как мужской или женский транспорт для ежедневных дел и отдыха.</p>\r\n</div>\r\n</div>\r\n",
+        "ua": "<div class=\"rc lr sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Електробайк New Speed потужність 1000W\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%204_46PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Ефективний транспорт для міста</h2>\r\n\r\n<p>Мотор на 1000W забезпечує впевнену тягу на підйомах. Це надійний міський та заміський транспорт для щоденних поїздок, який однаково ефективний на асфальті та ґрунтових дорогах.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Акумулятор\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%204_51PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Максимальний ресурс</h2>\r\n\r\n<p>Витривала батарея ідеально підходить для кур&#39;єра та активної роботи. Великий запас ходу дозволяє впевнено пересуватися містом весь день без додаткової підзарядки.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Широкі колеса fat tire\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%204_44PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Транспорт для складних умов</h2>\r\n\r\n<p>Широкі колеса гарантують стабільність на піску, снігу та бездоріжжі. Це універсальний вибір для села та поганих доріг, де Fat Tire забезпечує максимальне зчеплення та м&#39;якість ходу.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Електровелосипед New Speed для дорослих\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%205_06PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Ваш стандарт для щоденних поїздок</h2>\r\n\r\n<p>Посилена рама та ергономіка роблять цей електровелосипед зручним для дорослих райдерів. Універсальний дизайн підходить як чоловічий або жіночий транспорт для щоденних справ та відпочинку.</p>\r\n</div>\r\n</div>\r\n"
       },
       "seoTitle": {
         "ru": "Электровелосипед New Speed ​​фет байк 1000W 26×4.0\" мощная батарея 17Ah 48V",
@@ -762,27 +738,6 @@
             "ru": "до 45 км/час"
           }
         },
-        "maksimalneRekomendovaneNavantazhennja": {
-          "id": 20,
-          "value": {
-            "ua": "до 150 кг",
-            "ru": "до 150 кг"
-          }
-        },
-        "tip": {
-          "id": 3,
-          "value": {
-            "ua": "Електровелосипед",
-            "ru": "Электровелосипед"
-          }
-        },
-        "vodoneproniknst": {
-          "id": 5,
-          "value": {
-            "ua": "IP54",
-            "ru": "IP54"
-          }
-        },
         "chasPovnoZarjadzhannja": {
           "id": 16,
           "value": {
@@ -790,22 +745,11 @@
             "ru": "до 6 часов"
           }
         },
-        "gabaritiDxshxv": {
-          "id": 0,
-          "value": null
-        },
         "vaga": {
           "id": 32,
           "value": {
             "ua": "30 кг",
             "ru": "30 кг"
-          }
-        },
-        "garantja": {
-          "id": 9,
-          "value": {
-            "ua": "6 місяців",
-            "ru": "6 месяцев"
           }
         },
         "zapasXoduKm": {
@@ -843,10 +787,6 @@
             "ru": "7"
           }
         },
-        "cvet": {
-          "id": 0,
-          "value": null
-        },
         "potuzhnstWvtTopTovar": "0",
         "modelTopTovar": {
           "ru": "",
@@ -866,6 +806,34 @@
             "ua": "1000W",
             "ru": "1000W"
           }
+        },
+        "zapasXoduNaElektrotjaz": {
+          "id": 0,
+          "value": null
+        },
+        "tipAmortizac": {
+          "id": 0,
+          "value": null
+        },
+        "gabaritiUpakuvannja": {
+          "id": 0,
+          "value": null
+        },
+        "potuzhnstZarjadnogoPristrou": {
+          "id": 0,
+          "value": null
+        },
+        "tipAkumuljatora": {
+          "id": 0,
+          "value": null
+        },
+        "kranaVirobnik": {
+          "id": 0,
+          "value": null
+        },
+        "komplektacja": {
+          "ru": "",
+          "ua": ""
         }
       },
       "images": [

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-04-22T12:30:09.053Z",
+  "generatedAt": "2026-04-28T12:14:02.327Z",
   "block": {
     "id": "cmnhrisd20000e8v13nbkt0kk",
     "name": "Товари для головної сторінки",
@@ -30,15 +30,15 @@
   "products": [
     {
       "article": "73481",
-      "link": "https://elvio.com.ua/elektrovelosyped-keteles-kf9-skladnyi-fet-baik-750w-batareia-48v-26ah/",
+      "link": "https://elvio.com.ua/elektrovelosyped-skladnyi-kf9-750w-26a-potuzhnyi-elektrofetbaik-miskyi/",
       "parentArticle": "73481",
       "title": {
         "ru": "",
         "ua": ""
       },
       "modTitle": {
-        "ru": "Электровелосипед Keteles KF9 складной фет байк 750W батарея 48V 26Ah",
-        "ua": "Електровелосипед Keteles KF9 складний фет байк 750W батарея 48V 26Ah"
+        "ru": "Электровелосипед складной KF9 750W 26A мощный электрофетбайк городской",
+        "ua": "Електровелосипед складний KF9 750W 26A потужний електрофетбайк міський"
       },
       "price": 63999,
       "priceOld": 64999,
@@ -84,16 +84,16 @@
         "ua": "<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Комфорт та амортизація\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%209_30AM.jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Створений для вашого комфорту</h2>\r\n\r\n<p>Ергономічна конструкція рами та система амортизації дозволяють почуватися впевнено на будь-якому покритті. Це універсальний транспортний засіб забезпечує м&#39;якість ходу, знімаючи навантаження під час тривалих поїздок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Потужний двигун 750 Вт\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/1(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Ефективність та драйв у місті</h2>\r\n\r\n<p>Електровелосипед KF9 оснащений двигуном на 750 Вт з крутним моментом 50 Нм. Це забезпечує впевнений старт та плавність ходу, що ідеально підходить як для динамічних поїздок містом, так і для прогулянок пересіченою місцевістю.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Знімний акумулятор\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/2(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Максимальна автономність для кур&#39;єрів</h2>\r\n\r\n<p>Завдяки знімному акумулятору високої ємності, байк забезпечує величезний запас ходу. Це найкращий вибір для роботи кур&#39;єром: ви зможете працювати всю зміну без додаткових підзарядок, легко долаючи великі відстані.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Кольоровий дисплей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-february-26-2026--12_23pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Інтелектуальне управління</h2>\r\n\r\n<p>Яскравий кольоровий РК-дисплей відображає всі важливі параметри в режимі реального часу. Зручний інтерфейс та легке управління роблять цей електровелосипед доступним та комфортним як для чоловіків, так і для жінок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Shimano 7 швидкостей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/3(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Надійна трансмісія Shimano</h2>\r\n\r\n<p>7-швидкісна система перемикання Shimano дозволяє легко адаптуватися до рельєфу дороги. Вибирайте оптимальну передачу для швидкісного шосе або легкого підйому в гору, зберігаючи повний контроль над поїздкою.</p>\r\n</div>\r\n</div>\r\n"
       },
       "seoTitle": {
-        "ru": "",
-        "ua": ""
+        "ru": "Электровелосипед KF9 750W электрофетбайк складной городской 20×4.0\"",
+        "ua": "Електровелосипед KF9 750W електрофетбайк складаний міський 20×4.0\""
       },
       "seoKeywords": {
         "ru": "",
         "ua": ""
       },
       "seoDescription": {
-        "ru": "",
-        "ua": ""
+        "ru": "Мощный складной электровелосипед KF9 750W с усиленной батареей и широкими колесами 20х4.0\". Надежный элетрофетбайк для города и бездорожья. Доставка по Украине",
+        "ua": "Потужний складний електровелосипед KF9 750W з посиленою батареєю та широкими колесами 20х4.0\". Надійний елетрофетбайк для міста та бездоріжжя. Доставка по Україні."
       },
       "h1Title": {
         "ru": "",
@@ -124,13 +124,6 @@
             "ru": "34 кг"
           }
         },
-        "zapasXoduKm": {
-          "id": 60,
-          "value": {
-            "ua": "до 95 км",
-            "ru": "до 95 км"
-          }
-        },
         "sistemaGalmuvannja": {
           "id": 11,
           "value": {
@@ -141,8 +134,8 @@
         "dametrKols": {
           "id": 12,
           "value": {
-            "ua": "20",
-            "ru": "20"
+            "ua": "20, Фетбайк-шини",
+            "ru": "20, Фетбайк-шины"
           }
         },
         "materal": {
@@ -159,14 +152,14 @@
             "ru": "7"
           }
         },
-        "potuzhnstWvtTopTovar": "0",
+        "potuzhnstWvtTopTovar": "750",
         "modelTopTovar": {
-          "ru": "",
-          "ua": ""
+          "ru": "KETELES KF9",
+          "ua": "KETELES KF9"
         },
         "korotkiyOpisTopTovar": {
-          "ru": "",
-          "ua": ""
+          "ru": "KETELES KF9 складной",
+          "ua": "KETELES KF9 складний"
         },
         "emnstAkb": {
           "id": 0,
@@ -179,40 +172,66 @@
             "ru": "750W"
           }
         },
+        "tipAmortizac": {
+          "id": 94,
+          "value": {
+            "ua": "Передня амортизаційна вилка",
+            "ru": "Передняя амортизационная вилка"
+          }
+        },
+        "gabaritiUpakuvannja": {
+          "id": 96,
+          "value": {
+            "ua": "1430х290х770 мм",
+            "ru": "1430х290х770 мм"
+          }
+        },
+        "potuzhnstZarjadnogoPristrou": {
+          "id": 97,
+          "value": {
+            "ua": "48V 2A",
+            "ru": "48V 2A"
+          }
+        },
+        "tipAkumuljatora": {
+          "id": 89,
+          "value": {
+            "ua": "Літій-іонний",
+            "ru": "Литий-ионный"
+          }
+        },
+        "kranaVirobnik": {
+          "id": 90,
+          "value": {
+            "ua": "Китай",
+            "ru": "Китай"
+          }
+        },
+        "komplektacja": {
+          "ru": "Велосипед, зарядное устройство, корзина, 2 зеркала, замок, насос, набор инструментов, инструкция, держатель для телефона",
+          "ua": "Велосипед, зарядний пристрій, корзина, 2 дзеркала, замок, насос, набір інструментів, інструкція, тримач для телефону"
+        },
+        "zapasXoduVRezhimAsistenta": {
+          "id": 0,
+          "value": null
+        },
         "zapasXoduNaElektrotjaz": {
           "id": 0,
           "value": null
         },
-        "tipAmortizac": {
-          "id": 0,
-          "value": null
-        },
-        "gabaritiUpakuvannja": {
-          "id": 0,
-          "value": null
-        },
-        "potuzhnstZarjadnogoPristrou": {
-          "id": 0,
-          "value": null
-        },
-        "tipAkumuljatora": {
-          "id": 0,
-          "value": null
-        },
-        "kranaVirobnik": {
-          "id": 0,
-          "value": null
-        },
-        "komplektacja": {
-          "ru": "",
-          "ua": ""
+        "tipVelosipeda": {
+          "id": 118,
+          "value": {
+            "ua": "Для міста",
+            "ru": "Для города"
+          }
         }
       },
       "images": [
         "https://elvio.com.ua/content/images/26/50428543130350_+da606a1b5d.jpg",
         "https://elvio.com.ua/content/images/26/48983074078516_+dcc8d22baa.jpg",
         "https://elvio.com.ua/content/images/26/46360611530148_+653b5375a8.jpg",
-        "https://elvio.com.ua/content/images/26/69680545713790_+a74a1ec585.jpg",
+        "https://elvio.com.ua/content/images/26/elektrovelosyped-skladnyi-kf9-750w-26a-potuzhnyi-elektrofetbaik-miskyi-75562151757531_+5331d06a7c.jpg",
         "https://elvio.com.ua/content/images/26/73527878712357_+029aeeced9.jpg",
         "https://elvio.com.ua/content/images/26/43778025762851_+65cdd8e4c4.jpg",
         "https://elvio.com.ua/content/images/26/73171028610601_+11adf7ce7c.jpg",
@@ -230,15 +249,15 @@
     },
     {
       "article": "73893",
-      "link": "https://elvio.com.ua/elektrovelosyped-fetbaik-ouxi-gt2000-enduro-dlia-bezdorizhzhia-2000w-48v-30ah/",
+      "link": "https://elvio.com.ua/elektro-velosyped-gt2000-2000w-30ah-potuzhnyi-elektrofetbaik-243.0/",
       "parentArticle": "73893",
       "title": {
         "ru": "",
         "ua": ""
       },
       "modTitle": {
-        "ru": "Электровелосипед фетбайк OUXI GT2000 эндуро для бездорожья 2000W 48V 30AH",
-        "ua": "Електровелосипед фетбайк OUXI GT2000 ендуро для бездоріжжя 2000W 48V 30AH"
+        "ru": "Электро велосипед GT2000 2000W 30Ah мощный электрофетбайк 24×3.0",
+        "ua": "Електро велосипед GT2000 2000W 30Ah потужний електрофетбайк 24×3.0"
       },
       "price": 79999,
       "priceOld": 89999,
@@ -284,8 +303,8 @@
         "ua": "<div class=\"rc lr sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Акумулятор 48V 30AH електровелосипед R19\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-april-01-2026--11_07am.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Надійний акумулятор</h2>\r\n\r\n<p>Модель R19 оснащена літій-іонним акумулятором високої ємності 48V 30AH, що забезпечує тривалу автономність. Це ідеальне рішення для далеких поїздок, де важлива стабільна потужність та витривалість енергосистеми в будь-яких погодних умовах.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Кольоровий LCD дисплей електрофетбайка\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-april-01-2026--10_38am.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Кольоровий LCD дисплей</h2>\r\n\r\n<p>Яскравий дисплей відображає всі ключові параметри поїздки в реальному часі. Продумана ергономіка дозволяє райдеру легко керувати режимами потужності, забезпечуючи плавне перемикання та повний контроль над швидкістю на складних ділянках шляху.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Потужний двигун електрофетбайка для бездоріжжя\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%201_05PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Потужний двигун</h2>\r\n\r\n<p>Цей чоловічий електрофетбайк оснащений мотором з високим крутним моментом, що гарантує безкомпромісну прохідність. Інтелектуальний датчик миттєво адаптує тягу під рельєф, дозволяючи впевнено долати круті підйоми та пухкий ґрунт навіть при пікових навантаженнях.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center\">\r\n<div class=\"rc__media v-center\"><img alt=\"Широкі позашляхові шини Fat Tire\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%201_08PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Позашляховий електровелосипед</h2>\r\n\r\n<p>Широкі позашляхові шини з агресивним протектором гарантують максимальне зчеплення з брудом, піском або снігом. Потужна конструкція фетбайка забезпечує стійкість та впевнений драйв там, де звичайний велосипед просто не проїде.</p>\r\n</div>\r\n</div>\r\n"
       },
       "seoTitle": {
-        "ru": "Электровелосипед фетбайк OUXI GT2000 эндуро для бездорожья 2000W 48V 30AH",
-        "ua": "Електровелосипед фетбайк OUXI GT2000 ендуро для бездоріжжя 2000W 48V 30AH"
+        "ru": "Электро велосипед GT2000 2000W 30Ah мощный электрофетбайк 24×3.0",
+        "ua": "Електро велосипед GT2000 2000W 30Ah потужний електрофетбайк 24×3.0"
       },
       "seoKeywords": {
         "ru": "",
@@ -296,8 +315,8 @@
         "ua": "Потужний електрофетбайк ендуро OUXI GT2000 2000W з гідравлічними гальмами, потужна батарея 48V 30Ah для запасу ходу до 90 км. Консультація, гарантія, кредит/оплата частинами по Україні."
       },
       "h1Title": {
-        "ru": "Электровелосипед фетбайк OUXI GT2000 эндуро для бездорожья 2000W 48V 30AH",
-        "ua": "Електровелосипед фетбайк OUXI GT2000 ендуро для бездоріжжя 2000W 48V 30AH"
+        "ru": "Электро велосипед GT2000 2000W 30Ah мощный электрофетбайк 24×3.0",
+        "ua": "Електро велосипед GT2000 2000W 30Ah потужний електрофетбайк 24×3.0"
       },
       "altParents": [],
       "icons": [],
@@ -318,17 +337,10 @@
           }
         },
         "vaga": {
-          "id": 55,
+          "id": 110,
           "value": {
-            "ua": "53",
-            "ru": "53"
-          }
-        },
-        "zapasXoduKm": {
-          "id": 24,
-          "value": {
-            "ua": "до 90 км",
-            "ru": "до 90 км"
+            "ua": "42 кг",
+            "ru": "42 кг"
           }
         },
         "sistemaGalmuvannja": {
@@ -339,10 +351,10 @@
           }
         },
         "dametrKols": {
-          "id": 39,
+          "id": 109,
           "value": {
-            "ua": "19",
-            "ru": "19"
+            "ua": "24, Фетбайк-шини",
+            "ru": "24, Фетбайк-шины"
           }
         },
         "materal": {
@@ -359,18 +371,21 @@
             "ru": "7"
           }
         },
-        "potuzhnstWvtTopTovar": "0",
+        "potuzhnstWvtTopTovar": "2000",
         "modelTopTovar": {
-          "ru": "",
-          "ua": ""
+          "ru": "OUXI GT2000",
+          "ua": "OUXI GT2000"
         },
         "korotkiyOpisTopTovar": {
-          "ru": "",
-          "ua": ""
+          "ru": "OUXI GT2000 потужний",
+          "ua": "OUXI GT2000 потужний"
         },
         "emnstAkb": {
-          "id": 0,
-          "value": null
+          "id": 77,
+          "value": {
+            "ua": "30Ah",
+            "ru": "30Ah"
+          }
         },
         "potuzhnst": {
           "id": 65,
@@ -379,33 +394,65 @@
             "ru": "2000W"
           }
         },
-        "zapasXoduNaElektrotjaz": {
-          "id": 0,
-          "value": null
-        },
         "tipAmortizac": {
-          "id": 0,
-          "value": null
+          "id": 104,
+          "value": {
+            "ua": "Подвійна (передня вилка + задній амортизатор)",
+            "ru": "Двойная (передняя вилка + задний амортизатор)"
+          }
         },
         "gabaritiUpakuvannja": {
-          "id": 0,
-          "value": null
+          "id": 111,
+          "value": {
+            "ua": "1565х290х880 мм",
+            "ru": "1565х290х880 мм"
+          }
         },
         "potuzhnstZarjadnogoPristrou": {
-          "id": 0,
-          "value": null
+          "id": 112,
+          "value": {
+            "ua": "54.6V 4.5A",
+            "ru": "54.6V 4.5A"
+          }
         },
         "tipAkumuljatora": {
-          "id": 0,
-          "value": null
+          "id": 89,
+          "value": {
+            "ua": "Літій-іонний",
+            "ru": "Литий-ионный"
+          }
         },
         "kranaVirobnik": {
-          "id": 0,
-          "value": null
+          "id": 90,
+          "value": {
+            "ua": "Китай",
+            "ru": "Китай"
+          }
         },
         "komplektacja": {
-          "ru": "",
-          "ua": ""
+          "ru": "Велосипед, зарядное устройство, инструкция, набор инструментов, насос, 2 NFC карты, 2 брелка для сигнализации",
+          "ua": "Велосипед, зарядний пристрій, інструкція, набір інструментів, насос, 2 NFC картки, 2 брелка для сигналізації"
+        },
+        "zapasXoduVRezhimAsistenta": {
+          "id": 4,
+          "value": {
+            "ua": "до 90 км",
+            "ru": "до 90 км"
+          }
+        },
+        "zapasXoduNaElektrotjaz": {
+          "id": 9,
+          "value": {
+            "ua": "до 60 км",
+            "ru": "до 60 км"
+          }
+        },
+        "tipVelosipeda": {
+          "id": 117,
+          "value": {
+            "ua": "Для драйву",
+            "ru": "Для драйва"
+          }
         }
       },
       "images": [
@@ -447,15 +494,15 @@
     },
     {
       "article": "73944",
-      "link": "https://elvio.com.ua/elektrovelosyped-fetbaik-coswheel-r19-dlia-bezdorizhzhia-6000w-40ah-72v/",
+      "link": "https://elvio.com.ua/elektrovelosyped-r19-6000w-40ah-elektrofetbaik-dlia-bezdorizhzhia-19x3/",
       "parentArticle": "73944",
       "title": {
         "ru": "",
         "ua": ""
       },
       "modTitle": {
-        "ru": "Электровелосипед фетбайк Coswheel R19 ендуро для бездорожья 6000W 40Ah 72V",
-        "ua": "Електровелосипед фетбайк Coswheel R19 ендуро для бездоріжжя 6000W 40Ah 72V"
+        "ru": "Электровелосипед R19 6000W 40Ah электрофетбайк для бездорожья 19x3\"",
+        "ua": "Електровелосипед R19 6000W 40Ah електрофетбайк для бездоріжжя 19x3\""
       },
       "price": 139999,
       "priceOld": 159999,
@@ -501,8 +548,8 @@
         "ua": "<div class=\"rc lr sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Електричний мотоцикл COSWHEEL R19 72V 6000W\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_03pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Електричний мотоцикл COSWHEEL R19 72V 6000W</h2>\r\n\r\n<p>Легке бездоріжжя, поєднання неперевершеної швидкості та потужності.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Відчуйте неперевершену потужність\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_04pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Відчуйте неперевершену потужність</h2>\r\n\r\n<p>Максимум 6000 Вт<br />\r\n80 км/год максимальна швидкість<br />\r\n120 Н&middot;м крутний момент<br />\r\n40&deg; кут підйому</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Потужні позашляхові шини\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_05pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Потужні позашляхові шини</h2>\r\n\r\n<p>Оснащений високоміцними позашляховими шинами (70/100-19M/C передня та 80/100-19M/C задня), цей електромотоцикл створений для суворих пригод. Покращений малюнок протектора забезпечує відмінне зчеплення та контроль на бруді, гравії та нерівній місцевості. Міцна конструкція стійка до проколів та зносу для тривалого використання. Створені для стабільності та продуктивності на бездоріжжі, ці шини дозволяють зберігати контроль, куди б не вела стежка.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Запас ходу та потужність\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_05pm.jpg-1.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Запас ходу та потужність з акумулятором 72В 40А&middot;год</h2>\r\n\r\n<p>Модель R19 оснащена літій-іонним акумулятором 72В 40А&middot;год (елементи 21700), що забезпечує винятковий запас ходу та надійність. Порівняно зі стандартними батареями, він має вищу щільність енергії та тривалу ефективність. Їдьте далі, турбуйтеся менше &mdash; ідеально для тривалих пригод або щоденних поїздок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-bottom\">\r\n<div class=\"rc__media v-center\"><img alt=\"Багатофункціональний РК-дисплей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-march-01-2026--3_06pm.jpg-1.jpeg\" /></div>\r\n\r\n<div class=\"rc__text v-center\">\r\n<h2 class=\"rc__title m-0\">Багатофункціональний РК-дисплей</h2>\r\n\r\n<p>Великий 3,5-дюймовий РК-дисплей зі зручним відображенням даних поїздки: швидкість, пробіг, час у дорозі, залишок заряду та багато іншого &mdash; все під рукою для швидкого ознайомлення.</p>\r\n</div>\r\n</div>\r\n"
       },
       "seoTitle": {
-        "ru": "Электровелосипед фетбайк Coswheel R19 ендуро для бездорожья 6000W 40Ah 72V",
-        "ua": "Електровелосипед фетбайк Coswheel R19 ендуро для бездоріжжя 6000W 40Ah 72V"
+        "ru": "Электровелосипед R19 6000W 40Ah электрофетбайк для бездорожья 19x3\"",
+        "ua": "Електровелосипед R19 6000W 40Ah електрофетбайк для бездоріжжя 19x3\""
       },
       "seoKeywords": {
         "ru": "",
@@ -513,8 +560,8 @@
         "ua": "Потужний електрофетбайк ендуро Coswheel R19 6000W з гідравлічними гальмами, потужна батарея 72V 40Ah для запасу ходу до 200 км. Консультація, гарантія, кредит/оплата частинами по Україні."
       },
       "h1Title": {
-        "ru": "Электровелосипед фетбайк Coswheel R19 ендуро для бездорожья 6000W 40Ah 72V",
-        "ua": "Електровелосипед фетбайк Coswheel R19 ендуро для бездоріжжя 6000W 40Ah 72V"
+        "ru": "Электровелосипед R19 6000W 40Ah электрофетбайк для бездорожья 19x3\"",
+        "ua": "Електровелосипед R19 6000W 40Ah електрофетбайк для бездоріжжя 19x3\""
       },
       "altParents": [],
       "icons": [],
@@ -535,17 +582,10 @@
           }
         },
         "vaga": {
-          "id": 37,
+          "id": 85,
           "value": {
-            "ua": "63 кг",
-            "ru": "63 кг"
-          }
-        },
-        "zapasXoduKm": {
-          "id": 38,
-          "value": {
-            "ua": "до 200 км",
-            "ru": "до 200 км"
+            "ua": " 40 кг",
+            "ru": " 40 кг"
           }
         },
         "sistemaGalmuvannja": {
@@ -576,18 +616,21 @@
             "ru": "7"
           }
         },
-        "potuzhnstWvtTopTovar": "0",
+        "potuzhnstWvtTopTovar": "6000",
         "modelTopTovar": {
-          "ru": "",
-          "ua": ""
+          "ru": "COSWHEEL R19",
+          "ua": "COSWHEEL R19"
         },
         "korotkiyOpisTopTovar": {
-          "ru": "",
-          "ua": ""
+          "ru": "COSWHEEL R19 для бездорожья",
+          "ua": "COSWHEEL R19 для бездоріжжя"
         },
         "emnstAkb": {
-          "id": 0,
-          "value": null
+          "id": 72,
+          "value": {
+            "ua": "40Ah",
+            "ru": "40Ah"
+          }
         },
         "potuzhnst": {
           "id": 66,
@@ -596,13 +639,12 @@
             "ru": "6000W"
           }
         },
-        "zapasXoduNaElektrotjaz": {
-          "id": 0,
-          "value": null
-        },
         "tipAmortizac": {
-          "id": 0,
-          "value": null
+          "id": 116,
+          "value": {
+            "ua": "Передня вилка (інвертована), хід 200 мм / Задня гідравлічний моноамортизатор, хід 300 мм",
+            "ru": "Передняя вилка (инвертированная), ход 200 мм/Задняя гидравлический моноамортизатор, ход 300 мм"
+          }
         },
         "gabaritiUpakuvannja": {
           "id": 0,
@@ -613,16 +655,43 @@
           "value": null
         },
         "tipAkumuljatora": {
-          "id": 0,
-          "value": null
+          "id": 89,
+          "value": {
+            "ua": "Літій-іонний",
+            "ru": "Литий-ионный"
+          }
         },
         "kranaVirobnik": {
-          "id": 0,
-          "value": null
+          "id": 90,
+          "value": {
+            "ua": "Китай",
+            "ru": "Китай"
+          }
         },
         "komplektacja": {
           "ru": "",
           "ua": ""
+        },
+        "zapasXoduVRezhimAsistenta": {
+          "id": 12,
+          "value": {
+            "ua": "до 200 км",
+            "ru": "до 200 км"
+          }
+        },
+        "zapasXoduNaElektrotjaz": {
+          "id": 11,
+          "value": {
+            "ua": "до 120 км",
+            "ru": "до 120 км"
+          }
+        },
+        "tipVelosipeda": {
+          "id": 117,
+          "value": {
+            "ua": "Для драйву",
+            "ru": "Для драйва"
+          }
         }
       },
       "images": [
@@ -658,15 +727,15 @@
     },
     {
       "article": "74067",
-      "link": "https://elvio.com.ua/elektrovelosyped-new-speed-fet-baik-1000w-264.0-potuzhna-batareia-13ah-48v/",
+      "link": "https://elvio.com.ua/elektrovelosyped-1000w-13ah-elektrofetbaik-dlia-bezdorizhzhia-264.0/",
       "parentArticle": "74068",
       "title": {
         "ru": "",
         "ua": ""
       },
       "modTitle": {
-        "ru": "Электровелосипед New Speed ​​фет байк 1000W 26×4.0\" мощная батарея 13Ah 48V",
-        "ua": "Електровелосипед New Speed фет байк 1000W 26×4.0\" потужна батарея 13Ah 48V"
+        "ru": "Электровелосипед 1000W 13Ah электрофетбайк для бездорожья 26×4.0\"",
+        "ua": "Електровелосипед 1000W 13Ah електрофетбайк для бездоріжжя 26×4.0\""
       },
       "price": 49000,
       "priceOld": 55999,
@@ -712,30 +781,30 @@
         "ua": "<div class=\"rc lr sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Електробайк New Speed потужність 1000W\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%204_46PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Ефективний транспорт для міста</h2>\r\n\r\n<p>Мотор на 1000W забезпечує впевнену тягу на підйомах. Це надійний міський та заміський транспорт для щоденних поїздок, який однаково ефективний на асфальті та ґрунтових дорогах.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Акумулятор\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%204_51PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Максимальний ресурс</h2>\r\n\r\n<p>Витривала батарея ідеально підходить для кур&#39;єра та активної роботи. Великий запас ходу дозволяє впевнено пересуватися містом весь день без додаткової підзарядки.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc lr sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Широкі колеса fat tire\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%204_44PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Транспорт для складних умов</h2>\r\n\r\n<p>Широкі колеса гарантують стабільність на піску, снігу та бездоріжжі. Це універсальний вибір для села та поганих доріг, де Fat Tire забезпечує максимальне зчеплення та м&#39;якість ходу.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"rc rl sw-768 mob-top items-center g-16\">\r\n<div class=\"rc__media v-center\"><img alt=\"Електровелосипед New Speed для дорослих\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2014,%202026%20-%205_06PM.jpg\" /></div>\r\n\r\n<div class=\"rc__text v-center ta-center\">\r\n<h2 class=\"rc__title m-0\">Ваш стандарт для щоденних поїздок</h2>\r\n\r\n<p>Посилена рама та ергономіка роблять цей електровелосипед зручним для дорослих райдерів. Універсальний дизайн підходить як чоловічий або жіночий транспорт для щоденних справ та відпочинку.</p>\r\n</div>\r\n</div>\r\n"
       },
       "seoTitle": {
-        "ru": "Электровелосипед New Speed ​​фет байк 1000W 26×4.0\" мощная батарея 17Ah 48V",
-        "ua": "Електровелосипед New Speed фет байк 1000W 26×4.0\" потужна батарея 17Ah 48V"
+        "ru": "Электровелосипед 1000W 13Ah электрофетбайк для бездорожья 26×4.0\"",
+        "ua": "Електровелосипед 1000W 13Ah електрофетбайк для бездоріжжя 26×4.0\""
       },
       "seoKeywords": {
         "ru": "",
         "ua": ""
       },
       "seoDescription": {
-        "ru": "Мощный электрофетбайк New Speed ​​1000W с гидравлическими тормозами, мощная батарея 48V 17Ah с запасом хода до 70 км. Консультация, гарантия, кредит/оплата по частям по Украине.",
-        "ua": "Потужний електрофетбайк New Speed 1000W з гідравлічними гальмами, потужна батарея 48V 17Ah для запасу ходу до 70 км. Консультація, гарантія, кредит/оплата частинами по Україні."
+        "ru": "Мощный электрофетбайк New Speed ​​1000W с гидравлическими тормозами, мощная батарея 48V. Консультация, гарантия, кредит/оплата по частям по Украине.",
+        "ua": "Потужний електрофетбайк New Speed 1000W з гідравлічними гальмами, потужна батарея 48V. Консультація, гарантія, кредит/оплата частинами по Україні."
       },
       "h1Title": {
-        "ru": "Электровелосипед New Speed ​​фет байк 1000W 26×4.0\" мощная батарея 17Ah 48V",
-        "ua": "Електровелосипед New Speed фет байк 1000W 26×4.0\" потужна батарея 17Ah 48V"
+        "ru": "",
+        "ua": ""
       },
       "altParents": [],
       "icons": [],
       "characteristics": {
         "title": "",
         "maksimalnaShvidkst": {
-          "id": 1,
+          "id": 58,
           "value": {
-            "ua": "до 45 км/год",
-            "ru": "до 45 км/час"
+            "ua": "до 50 км/год",
+            "ru": "до 50 км/час"
           }
         },
         "chasPovnoZarjadzhannja": {
@@ -752,25 +821,18 @@
             "ru": "30 кг"
           }
         },
-        "zapasXoduKm": {
-          "id": 33,
-          "value": {
-            "ua": "до 70 км",
-            "ru": "до 70 км"
-          }
-        },
         "sistemaGalmuvannja": {
-          "id": 46,
+          "id": 11,
           "value": {
-            "ua": "Дискові механічні гальма",
-            "ru": "Дисковые механические тормоза"
+            "ua": "Дискові гідравлічні гальма",
+            "ru": "Дисковые гидравлические тормоза"
           }
         },
         "dametrKols": {
           "id": 28,
           "value": {
-            "ua": "26",
-            "ru": "26"
+            "ua": "26, Фетбайк-шини",
+            "ru": "26, Фетбайк-шины"
           }
         },
         "materal": {
@@ -787,14 +849,14 @@
             "ru": "7"
           }
         },
-        "potuzhnstWvtTopTovar": "0",
+        "potuzhnstWvtTopTovar": "1000",
         "modelTopTovar": {
-          "ru": "",
-          "ua": ""
+          "ru": "New Speed",
+          "ua": "New Speed"
         },
         "korotkiyOpisTopTovar": {
-          "ru": "",
-          "ua": ""
+          "ru": "New Speed ​​мощный электрофетбайк",
+          "ua": "New Speed потужний електрофетбайк"
         },
         "emnstAkb": {
           "id": 0,
@@ -807,33 +869,59 @@
             "ru": "1000W"
           }
         },
+        "tipAmortizac": {
+          "id": 94,
+          "value": {
+            "ua": "Передня амортизаційна вилка",
+            "ru": "Передняя амортизационная вилка"
+          }
+        },
+        "gabaritiUpakuvannja": {
+          "id": 98,
+          "value": {
+            "ua": "1520х280х810 мм",
+            "ru": "1520х280х810 мм"
+          }
+        },
+        "potuzhnstZarjadnogoPristrou": {
+          "id": 115,
+          "value": {
+            "ua": "54,6V 3A",
+            "ru": "54,6V 3A"
+          }
+        },
+        "tipAkumuljatora": {
+          "id": 89,
+          "value": {
+            "ua": "Літій-іонний",
+            "ru": "Литий-ионный"
+          }
+        },
+        "kranaVirobnik": {
+          "id": 90,
+          "value": {
+            "ua": "Китай",
+            "ru": "Китай"
+          }
+        },
+        "komplektacja": {
+          "ru": "Велосипед, зарядное устройство, держатель для телефона",
+          "ua": " Велосипед, зарядний пристрій, тримач для телефону"
+        },
+        "zapasXoduVRezhimAsistenta": {
+          "id": 0,
+          "value": null
+        },
         "zapasXoduNaElektrotjaz": {
           "id": 0,
           "value": null
         },
-        "tipAmortizac": {
-          "id": 0,
-          "value": null
-        },
-        "gabaritiUpakuvannja": {
-          "id": 0,
-          "value": null
-        },
-        "potuzhnstZarjadnogoPristrou": {
-          "id": 0,
-          "value": null
-        },
-        "tipAkumuljatora": {
-          "id": 0,
-          "value": null
-        },
-        "kranaVirobnik": {
-          "id": 0,
-          "value": null
-        },
-        "komplektacja": {
-          "ru": "",
-          "ua": ""
+        "tipVelosipeda": {
+          "id": 119,
+          "value": {
+            "ua": "Для природи",
+            "ru": "Для природы"
+          }
         }
       },
       "images": [

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-04-28T12:42:34.921Z",
+  "generatedAt": "2026-04-30T08:06:09.182Z",
   "block": {
     "id": "cmnhrisd20000e8v13nbkt0kk",
     "name": "Товари для головної сторінки",
@@ -80,8 +80,8 @@
         "ua": ""
       },
       "description": {
-        "ru": "<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Комфорт и амортизация\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%209_30AM.jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Создан для вашего комфорта</h2>\r\n\r\n<p>Эргономичная конструкция рамы и система амортизации позволяют чувствовать себя уверенно на любом покрытии. Это универсальное транспортное средство обеспечивает мягкость хода, снимая нагрузку во время длительных поездок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Мощный двигатель 750 Вт\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/1(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Эффективность и драйв в городе</h2>\r\n\r\n<p>Электровелосипед KF9 оснащен двигателем на 750 Вт с крутящим моментом 50 Нм. Это обеспечивает уверенный старт и плавность хода, что идеально подходит как для динамичных поездок по городу, так и для прогулок по пересеченной местности.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Съемный аккумулятор\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/2(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Максимальная автономность для курьеров</h2>\r\n\r\n<p>Благодаря съемному аккумулятору высокой емкости, байк обеспечивает огромный запас хода. Это лучший выбор для работы курьером: вы сможете работать всю смену без дополнительных подзарядок, легко преодолевая большие расстояния.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Цветной дисплей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-february-26-2026--12_23pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Интеллектуальное управление</h2>\r\n\r\n<p>Яркий цветной ЖК-дисплей отображает все важные параметры в реальном времени. Удобный интерфейс и легкое управление делают этот электровелосипед доступным и комфортным как для мужчин, так и для женщин.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Shimano 7 скоростей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/3(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Надежная трансмиссия Shimano</h2>\r\n\r\n<p>7-скоростная система переключения Shimano позволяет легко адаптироваться к рельефу дороги. Выбирайте оптимальную передачу для скоростного шоссе или легкого подъема в гору, сохраняя полный контроль над поездкой.</p>\r\n</div>\r\n</div>\r\n",
-        "ua": "<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Комфорт та амортизація\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%209_30AM.jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Створений для вашого комфорту</h2>\r\n\r\n<p>Ергономічна конструкція рами та система амортизації дозволяють почуватися впевнено на будь-якому покритті. Це універсальний транспортний засіб забезпечує м&#39;якість ходу, знімаючи навантаження під час тривалих поїздок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Потужний двигун 750 Вт\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/1(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Ефективність та драйв у місті</h2>\r\n\r\n<p>Електровелосипед KF9 оснащений двигуном на 750 Вт з крутним моментом 50 Нм. Це забезпечує впевнений старт та плавність ходу, що ідеально підходить як для динамічних поїздок містом, так і для прогулянок пересіченою місцевістю.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Знімний акумулятор\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/2(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Максимальна автономність для кур&#39;єрів</h2>\r\n\r\n<p>Завдяки знімному акумулятору високої ємності, байк забезпечує величезний запас ходу. Це найкращий вибір для роботи кур&#39;єром: ви зможете працювати всю зміну без додаткових підзарядок, легко долаючи великі відстані.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Кольоровий дисплей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-february-26-2026--12_23pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Інтелектуальне управління</h2>\r\n\r\n<p>Яскравий кольоровий РК-дисплей відображає всі важливі параметри в режимі реального часу. Зручний інтерфейс та легке управління роблять цей електровелосипед доступним та комфортним як для чоловіків, так і для жінок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Shimano 7 швидкостей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/3(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Надійна трансмісія Shimano</h2>\r\n\r\n<p>7-швидкісна система перемикання Shimano дозволяє легко адаптуватися до рельєфу дороги. Вибирайте оптимальну передачу для швидкісного шосе або легкого підйому в гору, зберігаючи повний контроль над поїздкою.</p>\r\n</div>\r\n</div>\r\n"
+        "ru": "<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Комфорт и амортизация\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%209_30AM.jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Создан для вашего комфорта</h2>\r\n\r\n<p>Эргономичная конструкция рамы и система амортизации позволяют чувствовать себя уверенно на любом покрытии. Это универсальное транспортное средство обеспечивает мягкость хода, снимая нагрузку во время длительных поездок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Мощный двигатель 750 Вт\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/1(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Эффективность и драйв в городе</h2>\r\n\r\n<p>Электровелосипед KF9 оснащен двигателем на 750 Вт с крутящим моментом 50 Нм. Это обеспечивает уверенный старт и плавность хода, что идеально подходит как для динамичных поездок по городу, так и для прогулок по пересеченной местности.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Съемный аккумулятор\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/2(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Максимальная автономность для курьеров</h2>\r\n\r\n<p>Благодаря съемному аккумулятору высокой емкости, байк обеспечивает огромный запас хода. Это лучший выбор для работы курьером: вы сможете работать всю смену без дополнительных подзарядок, легко преодолевая большие расстояния.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Цветной дисплей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-february-26-2026--12_23pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Интеллектуальное управление</h2>\r\n\r\n<p>Яркий цветной ЖК-дисплей отображает все важные параметры в реальном времени. Удобный интерфейс и легкое управление делают этот электровелосипед доступным и комфортным как для мужчин, так и для женщин.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Shimano 7 скоростей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/3(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Надежная трансмиссия Shimano</h2>\r\n\r\n<p>7-скоростная система переключения Shimano позволяет легко адаптироваться к рельефу дороги. Выбирайте оптимальную передачу для скоростного шоссе или легкого подъема в гору, сохраняя полный контроль над поездкой.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><a href=\"https://www.youtube.com/watch?v=HVjtjf4mWm0\">Инструкция по использованию и настройке велокомпьютера</a></p>\r\n</div>\r\n</div>\r\n",
+        "ua": "<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Комфорт та амортизація\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/Generated%20Image%20April%2016,%202026%20-%209_30AM.jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Створений для вашого комфорту</h2>\r\n\r\n<p>Ергономічна конструкція рами та система амортизації дозволяють почуватися впевнено на будь-якому покритті. Це універсальний транспортний засіб забезпечує м&#39;якість ходу, знімаючи навантаження під час тривалих поїздок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Потужний двигун 750 Вт\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/1(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Ефективність та драйв у місті</h2>\r\n\r\n<p>Електровелосипед KF9 оснащений двигуном на 750 Вт з крутним моментом 50 Нм. Це забезпечує впевнений старт та плавність ходу, що ідеально підходить як для динамічних поїздок містом, так і для прогулянок пересіченою місцевістю.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Знімний акумулятор\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/2(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Максимальна автономність для кур&#39;єрів</h2>\r\n\r\n<p>Завдяки знімному акумулятору високої ємності, байк забезпечує величезний запас ходу. Це найкращий вибір для роботи кур&#39;єром: ви зможете працювати всю зміну без додаткових підзарядок, легко долаючи великі відстані.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box flex-reverse\">\r\n<div class=\"bike-media\"><img alt=\"Кольоровий дисплей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/generated-image-february-26-2026--12_23pm.jpg.jpeg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Інтелектуальне управління</h2>\r\n\r\n<p>Яскравий кольоровий РК-дисплей відображає всі важливі параметри в режимі реального часу. Зручний інтерфейс та легке управління роблять цей електровелосипед доступним та комфортним як для чоловіків, так і для жінок.</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"bike-box\">\r\n<div class=\"bike-media\"><img alt=\"Shimano 7 швидкостей\" loading=\"lazy\" src=\"https://dobramama.com.ua/image/catalog/3(1).jpg\" /></div>\r\n\r\n<div class=\"bike-info\">\r\n<h2>Надійна трансмісія Shimano</h2>\r\n\r\n<p>7-швидкісна система перемикання Shimano дозволяє легко адаптуватися до рельєфу дороги. Вибирайте оптимальну передачу для швидкісного шосе або легкого підйому в гору, зберігаючи повний контроль над поїздкою.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><a href=\"https://www.youtube.com/watch?v=HVjtjf4mWm0\">Інструкція з використання та налаштування велокомпьютера</a></p>\r\n</div>\r\n</div>\r\n"
       },
       "seoTitle": {
         "ru": "Электровелосипед KF9 750W электрофетбайк складной городской 20×4.0\"",
@@ -245,7 +245,14 @@
         "https://elvio.com.ua/content/images/26/57864843571353_+5c4cd21211.jpg"
       ],
       "galleryCommon": [],
-      "gallery360": []
+      "gallery360": [],
+      "zapasXodu": {
+        "id": 60,
+        "value": {
+          "ua": "до 95 км",
+          "ru": "до 95 км"
+        }
+      }
     },
     {
       "article": "73893",
@@ -377,8 +384,8 @@
           "ua": "OUXI GT2000"
         },
         "korotkiyOpisTopTovar": {
-          "ru": "Мощный электрофэтбайк 2000 Вт, батарея 48В 30Ач, скорость до 60 км/ч, запас хода до 120 км, Shimano 7, гидравлические тормоза.",
-          "ua": "Потужний електрофетбайк 2000 Вт, батарея 48В 30Аг, швидкість до 60 км/год, запас ходу до 120 км, Shimano 7, гідравлічні гальма."
+          "ru": "Электрофетбайк 2000 Вт, батарея 48В 30Ач, скорость до 60 км/ч, запас хода до 90 км, гидравлический тормоз",
+          "ua": "Електрофетбайк 2000 Вт, батарея 48В 30Аг, швидкість до 60 км/год, запас ходу до 90 км, гідравлічні гальма"
         },
         "emnstAkb": {
           "id": 77,
@@ -490,7 +497,14 @@
         "https://elvio.com.ua/content/images/37/elektrovelosyped-fetbaik-ouxi-gt2000-enduro-dlia-bezdorizhzhia-2000w-48v-30ah-86532478724893_+0ff7d8e789.png"
       ],
       "galleryCommon": [],
-      "gallery360": []
+      "gallery360": [],
+      "zapasXodu": {
+        "id": 24,
+        "value": {
+          "ua": "до 90 км",
+          "ru": "до 90 км"
+        }
+      }
     },
     {
       "article": "73944",
@@ -723,7 +737,14 @@
         "https://elvio.com.ua/content/images/30/elektrovelosyped-fetbaik-coswheel-r19-dlia-bezdorizhzhia-6000w-40ah-72v-91845399706079_+38280e635e.jpeg"
       ],
       "galleryCommon": [],
-      "gallery360": []
+      "gallery360": [],
+      "zapasXodu": {
+        "id": 38,
+        "value": {
+          "ua": "до 200 км",
+          "ru": "до 200 км"
+        }
+      }
     },
     {
       "article": "74067",
@@ -737,17 +758,17 @@
         "ru": "Электровелосипед 1000W 13Ah электрофетбайк для бездорожья 26×4.0\"",
         "ua": "Електровелосипед 1000W 13Ah електрофетбайк для бездоріжжя 26×4.0\""
       },
-      "price": 49000,
-      "priceOld": 55999,
+      "price": 45000,
+      "priceOld": 49999,
       "discount": 0,
-      "quantity": 0,
+      "quantity": 9,
       "popularity": 0,
       "displayInShowcase": true,
       "presence": {
-        "id": 2,
+        "id": 1,
         "value": {
-          "ua": "Немає в наявності",
-          "ru": "Нет в наличии"
+          "ua": "В наявності",
+          "ru": "В наличии"
         }
       },
       "currency": {
@@ -851,12 +872,12 @@
         },
         "potuzhnstWvtTopTovar": "1000",
         "modelTopTovar": {
-          "ru": "New Speed",
-          "ua": "New Speed"
+          "ru": "New Speed для бездорожья",
+          "ua": "New Speed для бездоріжжя"
         },
         "korotkiyOpisTopTovar": {
-          "ru": "New Speed ​​мощный электрофетбайк",
-          "ua": "New Speed потужний електрофетбайк"
+          "ru": "Электрофетбайк 1000 Вт, батарея 13Ач 48V, запас хода до 60 км, гидравлический тормоз, колеса 26×4.0",
+          "ua": "Електрофетбайк 1000 Вт, батарея 13Аг 48V, запас ходу до 60 км, гідравлічні гальма, колеса 26×4.0"
         },
         "emnstAkb": {
           "id": 0,
@@ -940,7 +961,14 @@
         "https://elvio.com.ua/content/images/1/63105261006741_+2f24839b6b.jpg"
       ],
       "galleryCommon": [],
-      "gallery360": []
+      "gallery360": [],
+      "zapasXodu": {
+        "id": 61,
+        "value": {
+          "ua": "до 40 км",
+          "ru": "до 40 км"
+        }
+      }
     }
   ]
 }

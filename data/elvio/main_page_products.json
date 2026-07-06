@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-07-05T21:00:06.565Z",
+  "generatedAt": "2026-07-06T21:00:09.389Z",
   "block": {
     "id": "cmqs0kcc97tdbqoshsqhlj6z5",
     "name": "Товари на головній",
@@ -517,10 +517,10 @@
         "ru": "Электровелосипед R19 6000W 40Ah электрофетбайк для бездорожья 19x3\"",
         "ua": "Електровелосипед R19 6000W 40Ah електрофетбайк для бездоріжжя 19x3\""
       },
-      "price": 110000,
-      "priceOld": 119000,
+      "price": 119000,
+      "priceOld": 125000,
       "discount": 0,
-      "quantity": 4,
+      "quantity": 2,
       "popularity": 0,
       "displayInShowcase": true,
       "presence": {

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-07-15T21:00:04.920Z",
+  "generatedAt": "2026-07-16T21:00:07.660Z",
   "block": {
     "id": "cmqs0kcc97tdbqoshsqhlj6z5",
     "name": "Товари на головній",
@@ -520,14 +520,14 @@
       "price": 119000,
       "priceOld": 125000,
       "discount": 0,
-      "quantity": 0,
+      "quantity": 1,
       "popularity": 0,
       "displayInShowcase": true,
       "presence": {
-        "id": 2,
+        "id": 1,
         "value": {
-          "ua": "Немає в наявності",
-          "ru": "Нет в наличии"
+          "ua": "В наявності",
+          "ru": "В наличии"
         }
       },
       "currency": {

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-07-21T21:00:06.621Z",
+  "generatedAt": "2026-07-22T21:00:09.468Z",
   "block": {
     "id": "cmqs0kcc97tdbqoshsqhlj6z5",
     "name": "Товари на головній",
@@ -40,8 +40,8 @@
         "ru": "Электровелосипед KF9 750W 35Ah электрофетбайк складной для города 20×4.0\"",
         "ua": "Электровелосипед KF9 750W 35Ah электрофетбайк складной для города 20×4.0\""
       },
-      "price": 69999,
-      "priceOld": 0,
+      "price": 64999,
+      "priceOld": 69999,
       "discount": 0,
       "quantity": 9,
       "popularity": 0,
@@ -268,14 +268,14 @@
       "price": 79999,
       "priceOld": 89999,
       "discount": 0,
-      "quantity": 0,
+      "quantity": 1,
       "popularity": 0,
       "displayInShowcase": true,
       "presence": {
-        "id": 2,
+        "id": 1,
         "value": {
-          "ua": "Немає в наявності",
-          "ru": "Нет в наличии"
+          "ua": "В наявності",
+          "ru": "В наличии"
         }
       },
       "currency": {
@@ -520,14 +520,14 @@
       "price": 117999,
       "priceOld": 125000,
       "discount": 0,
-      "quantity": 1,
+      "quantity": 0,
       "popularity": 0,
       "displayInShowcase": true,
       "presence": {
-        "id": 1,
+        "id": 2,
         "value": {
-          "ua": "В наявності",
-          "ru": "В наличии"
+          "ua": "Немає в наявності",
+          "ru": "Нет в наличии"
         }
       },
       "currency": {

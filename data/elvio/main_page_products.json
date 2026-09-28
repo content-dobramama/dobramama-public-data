@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-09-27T21:00:01.073Z",
+  "generatedAt": "2026-09-28T21:00:03.941Z",
   "block": {
     "id": "cmqs0kcc97tdbqoshsqhlj6z5",
     "name": "Товари на головній",
@@ -265,7 +265,7 @@
         "ru": "Электро велосипед GT2000 2000W 30Ah мощный электрофетбайк 24×3.0",
         "ua": "Електро велосипед GT2000 2000W 30Ah потужний електрофетбайк 24×3.0"
       },
-      "price": 79999,
+      "price": 74999,
       "priceOld": 89999,
       "discount": 0,
       "quantity": 1,

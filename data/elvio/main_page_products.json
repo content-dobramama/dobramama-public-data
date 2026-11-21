@@ -1,7 +1,7 @@
 {
   "version": 1,
   "handlerKey": "horoshop-github",
-  "generatedAt": "2026-11-09T22:00:13.092Z",
+  "generatedAt": "2026-11-21T22:00:02.687Z",
   "block": {
     "id": "cmqs0kcc97tdbqoshsqhlj6z5",
     "name": "Товари на головній",
@@ -43,7 +43,7 @@
       "price": 64999,
       "priceOld": 69999,
       "discount": 0,
-      "quantity": 5,
+      "quantity": 4,
       "popularity": 0,
       "displayInShowcase": true,
       "presence": {
